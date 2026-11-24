@@ -1,0 +1,1495 @@
+[
+ {
+  "slug": "smartfony",
+  "title": "Smartfonlar",
+  "count": 4,
+  "url": "https://seventech.uz/market?category=smartfony",
+  "items": [
+   {
+    "id": 826,
+    "title": "CONNECT U7 smartfoni, 8/256 GB, Black",
+    "model": "7TCMPU76G8256BS1",
+    "series": "GOLD",
+    "price": 3600000,
+    "img": "img/826.webp",
+    "url": "https://seventech.uz/market/product-page/smartfon-connect-u7-8256-gb-black-7tcmpu76g8256bs1"
+   },
+   {
+    "id": 825,
+    "title": "CONNECT U7 smartfoni, 8/128 GB, Black",
+    "model": "7TCMPU76G8512BS1",
+    "series": "GOLD",
+    "price": 3388000,
+    "img": "img/825.webp",
+    "url": "https://seventech.uz/market/product-page/smartfon-connect-u7-8128-gb-black-7tcmpu76g8512bs1"
+   }
+  ]
+ },
+ {
+  "slug": "televizory",
+  "title": "Televizorlar",
+  "count": 25,
+  "url": "https://seventech.uz/market?category=televizory",
+  "items": [
+   {
+    "id": 59,
+    "title": "OLED 4K Smart TV 77\"",
+    "model": "7TV4P77OLEDS1",
+    "series": "PLATINUM",
+    "price": 38259000,
+    "img": "img/59.webp",
+    "url": "https://seventech.uz/market/product-page/oled-4k-google-tv-77-7tv4p77oleds1"
+   },
+   {
+    "id": 773,
+    "title": "MiniLED 4K Smart TV 100″ 144 Hz",
+    "model": "7TV6G100LED144HZ",
+    "series": "GOLD",
+    "price": 32074000,
+    "img": "img/773.webp",
+    "url": "https://seventech.uz/market/product-page/miniled-4k-smart-tv-100-144-gc-7tv6g100led144hz"
+   },
+   {
+    "id": 109,
+    "title": "OLED 4K Smart TV 65\" 120 Gts chastotada",
+    "model": "7TV4P65OLEDS1",
+    "series": "PLATINUM",
+    "price": 18459000,
+    "img": "img/109.webp",
+    "url": "https://seventech.uz/market/product-page/oled-4k-smart-tv-65-s-castotoi-120-gc-7tv4p65oleds1"
+   },
+   {
+    "id": 57,
+    "title": "Google TV va 144 Gts chastotali 75″ katta televizor",
+    "model": "7TV4P75MLEDS1",
+    "series": "PLATINUM",
+    "price": 14091000,
+    "img": "img/57.webp",
+    "url": "https://seventech.uz/market/product-page/bolsoi-televizor-75-s-google-tv-i-castotoi-144-gc-7tv4p75mleds1"
+   },
+   {
+    "id": 774,
+    "title": "QLED 4K Smart TV 85″",
+    "model": "7TV6G85QLEDW7",
+    "series": "GOLD",
+    "price": 13957000,
+    "img": "img/774.webp",
+    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-85-7tv6g85qledw7"
+   },
+   {
+    "id": 775,
+    "title": "QLED 4K Smart TV 85″ 120 Hz",
+    "model": "7TV6G85QLEDG120HZ",
+    "series": "GOLD",
+    "price": 13762000,
+    "img": "img/775.webp",
+    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-85-120-gc-7tv6g85qledg120hz"
+   },
+   {
+    "id": 58,
+    "title": "OLED 4K 55\" Google TV Televizori",
+    "model": "7TV4P55OLEDS1",
+    "series": "PLATINUM",
+    "price": 13286000,
+    "img": "img/58.webp",
+    "url": "https://seventech.uz/market/product-page/televizor-oled-4k-55-s-google-tv-7tv4p55oleds1"
+   },
+   {
+    "id": 177,
+    "title": "Google TV‘li QLED 4K televizor, 65″",
+    "model": "7TV4G65QLEDWS1",
+    "series": "GOLD",
+    "price": 9333000,
+    "img": "img/177.webp",
+    "url": "https://seventech.uz/market/product-page/televizor-qled-4k-s-google-tv-65-7tv4g65qledws1"
+   },
+   {
+    "id": 56,
+    "title": "Google TV va IPS ekranli 65″ 4K televizor",
+    "model": "7TV4P65MLEDS1",
+    "series": "PLATINUM",
+    "price": 9199000,
+    "img": "img/56.webp",
+    "url": "https://seventech.uz/market/product-page/65-4k-televizor-s-google-tv-i-ips-ekranom-7tv4p65mleds1"
+   },
+   {
+    "id": 777,
+    "title": "QLED 4K Smart TV 75″",
+    "model": "7TV6G75QLEDW7",
+    "series": "GOLD",
+    "price": 9065000,
+    "img": "img/777.webp",
+    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-75-7tv6g75qledw7"
+   }
+  ]
+ },
+ {
+  "slug": "monitory",
+  "title": "Monitorlar",
+  "count": 17,
+  "url": "https://seventech.uz/market?category=monitory",
+  "items": [
+   {
+    "id": 387,
+    "title": "OLED UltraWide monitor, 45 dyuym, 3440×1440",
+    "model": "7M4P45C240",
+    "series": "PLATINUM",
+    "price": 16770000,
+    "img": "img/387.webp",
+    "url": "https://seventech.uz/market/product-page/oled-monitor-ultrawide-45-diuimov-34401440-7m4p45c240"
+   },
+   {
+    "id": 386,
+    "title": "OLED monitor, 42 dyuym, 3840×2160",
+    "model": "7M4P42F120",
+    "series": "PLATINUM",
+    "price": 12384000,
+    "img": "img/386.webp",
+    "url": "https://seventech.uz/market/product-page/oled-monitor-42-diuima-38402160-7m4p42f120"
+   },
+   {
+    "id": 384,
+    "title": "VA Super UltraWide monitor, 49 dyuym, 5120×1440",
+    "model": "7M4P49C240",
+    "series": "PLATINUM",
+    "price": 10320000,
+    "img": "img/384.webp",
+    "url": "https://seventech.uz/market/product-page/va-monitor-super-ultrawide-49-diuimov-51201440-7m4p49c240"
+   },
+   {
+    "id": 385,
+    "title": "OLED monitor, 27 dyuym",
+    "model": "7M4P27F240",
+    "series": "PLATINUM",
+    "price": 8514000,
+    "img": "img/385.webp",
+    "url": "https://seventech.uz/market/product-page/oled-monitor-27-diuimov-7m4p27f240"
+   },
+   {
+    "id": 931,
+    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, 160 Hz, kulrang",
+    "model": "7M4P27F16027",
+    "series": "PLATINUM",
+    "price": 4150000,
+    "img": "img/931.webp",
+    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-160-gc-seryi-7m4p27f16027"
+   },
+   {
+    "id": 930,
+    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, 60 Hz, ko‘k",
+    "model": "7M4P27F060B27",
+    "series": "PLATINUM",
+    "price": 2950000,
+    "img": "img/930.webp",
+    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-60-gc-sinii-7m4p27f060b27"
+   },
+   {
+    "id": 929,
+    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, kulrang",
+    "model": "7M4P27F060GY27",
+    "series": "PLATINUM",
+    "price": 2950000,
+    "img": "img/929.webp",
+    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-seryi-7m4p27f060gy27"
+   },
+   {
+    "id": 383,
+    "title": "Full HD aniqlikdagi VA monitor, 32 dyuym",
+    "model": "7M4S32C180",
+    "series": "SILVER",
+    "price": 2451000,
+    "img": "img/383.webp",
+    "url": "https://seventech.uz/market/product-page/va-monitor-s-razreseniem-full-hd-32-diuima-7m4s32c180"
+   },
+   {
+    "id": 382,
+    "title": "2K aniqlikdagi IPS monitor, 27 dyuym",
+    "model": "7M4G27F181S1",
+    "series": "GOLD",
+    "price": 2193000,
+    "img": "img/382.webp",
+    "url": "https://seventech.uz/market/product-page/ips-monitor-s-2k-razreseniem-27-diuimov-7m4g27f181s1"
+   },
+   {
+    "id": 921,
+    "title": "QHD aniqlikdagi 27 dyuymli IPS monitor, 180 Hz, kulrang",
+    "model": "7M4G27F180S2W27",
+    "series": "GOLD",
+    "price": 1870000,
+    "img": "img/921.webp",
+    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-qhd-27-diuimov-180-gc-seryi-7m4g27f180s2w27"
+   }
+  ]
+ },
+ {
+  "slug": "xolodilniki",
+  "title": "Sovutgichlar",
+  "count": 37,
+  "url": "https://seventech.uz/market?category=xolodilniki",
+  "items": [
+   {
+    "id": 65,
+    "title": "Katta LED displeyli sovutgich",
+    "model": "7REF4P536DIS2",
+    "series": "PLATINUM",
+    "price": 24900000,
+    "img": "img/65.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-s-bolsim-led-displeem-7ref4p536dis2"
+   },
+   {
+    "id": 431,
+    "title": "Kengaytirilgan hajmli No Frost sovutgich, 531 L",
+    "model": "7REF4P531BGS3",
+    "series": "PLATINUM",
+    "price": 20813000,
+    "img": "img/431.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-uvelicennym-obieemom-531-l-7ref4p531bgs3"
+   },
+   {
+    "id": 64,
+    "title": "Tashqi boshqaruv panelli alohida turadigan sovutgich, 591 L, qora",
+    "model": "7REF4P591BGS2",
+    "series": "PLATINUM",
+    "price": 16104000,
+    "img": "img/64.webp",
+    "url": "https://seventech.uz/market/product-page/otdelnostoiashhii-xolodilnik-s-vnesnei-paneliu-upravleniia-591-l-cernyi-7ref4p591bgs2"
+   },
+   {
+    "id": 771,
+    "title": "No Frost sovutgich, pastki muzlatkich bilan, 680 L, to‘q kulrang",
+    "model": "7REF4P680DGS3",
+    "series": "PLATINUM",
+    "price": 10346000,
+    "img": "img/771.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-temno-seryi-7ref4p680dgs3"
+   },
+   {
+    "id": 769,
+    "title": "Pastki muzlatkichli No Frost sovutgich, 680 L, oq",
+    "model": "7REF4P680WS3",
+    "series": "PLATINUM",
+    "price": 10077000,
+    "img": "img/769.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-belyi-7ref4p680ws3"
+   },
+   {
+    "id": 86,
+    "title": "Oziq-ovqat mahsulotlarini saqlash uchun maxsus joylarga ega sovutgich",
+    "model": "7REF4P503BGS3",
+    "series": "PLATINUM",
+    "price": 10077000,
+    "img": "img/86.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-so-specialnymi-zonami-dlia-xraneniia-produktov-7ref4p503bgs3"
+   },
+   {
+    "id": 85,
+    "title": "Sensorli boshqaruvli sovutgich",
+    "model": "7REF4P503DIS3",
+    "series": "PLATINUM",
+    "price": 9809000,
+    "img": "img/85.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-s-sensornym-upravleniem-7ref4p503dis3"
+   },
+   {
+    "id": 62,
+    "title": "Metal Cooling sovitish tizimiga ega sovutgich",
+    "model": "7REF4G495DIS1",
+    "series": "GOLD",
+    "price": 9199000,
+    "img": "img/62.webp",
+    "url": "https://seventech.uz/market/product-page/xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g495dis1"
+   },
+   {
+    "id": 411,
+    "title": "Pastki muzlatkichli to‘rt kamerali No Frost sovutgich, 515 L, qora",
+    "model": "7REF4P515BGS2",
+    "series": "PLATINUM",
+    "price": 9004000,
+    "img": "img/411.webp",
+    "url": "https://seventech.uz/market/product-page/cetyrexkamernyi-xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-515-l-cernyi-7ref4p515bgs2"
+   },
+   {
+    "id": 66,
+    "title": "Metal Cooling sovitish tizimiga ega o‘rnatilgan sovutgich",
+    "model": "7REF4G252BIS1",
+    "series": "GOLD",
+    "price": 8052000,
+    "img": "img/66.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g252bis1"
+   }
+  ]
+ },
+ {
+  "slug": "kondicionery",
+  "title": "Konditsionerlar",
+  "count": 42,
+  "url": "https://seventech.uz/market?category=kondicionery",
+  "items": [
+   {
+    "id": 345,
+    "title": "Kolonna turidagi konditsioner, 300 m² gacha bo‘lgan xonalar uchun",
+    "model": "7AC4P100WS2",
+    "series": "PLATINUM",
+    "price": 42956000,
+    "img": "img/345.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-dlia-pomeshhenii-do-300-m2-7ac4p100ws2"
+   },
+   {
+    "id": 812,
+    "title": "Kolonna turidagi inverter konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+    "model": "7AC4P60GFS1",
+    "series": "PLATINUM",
+    "price": 23497000,
+    "img": "img/812.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-dlia-pomeshhenii-do-180-m2-seryi-7ac4p60gfs1"
+   },
+   {
+    "id": 759,
+    "title": "Oq rangli kolonna turidagi inverter konditsioner, 180 m² gacha",
+    "model": "7AC4P60WFS1",
+    "series": "PLATINUM",
+    "price": 22826000,
+    "img": "img/759.webp",
+    "url": "https://seventech.uz/market/product-page/belyi-kolonnyi-invertornyi-kondicioner-180-m2-7ac4p60wfs1"
+   },
+   {
+    "id": 758,
+    "title": "Polga o‘rnatiladigan inverter konditsioner, 144 m²",
+    "model": "7AC4P48WFS1",
+    "series": "PLATINUM",
+    "price": 20801000,
+    "img": "img/758.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-144-m2-7ac4p48wfs1"
+   },
+   {
+    "id": 332,
+    "title": "Kolonnali invertorli konditsioner, 140 m² gacha",
+    "model": "7AC4P48WS1",
+    "series": "PLATINUM",
+    "price": 20801000,
+    "img": "img/332.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-do-140-m2-7ac4p48ws1"
+   },
+   {
+    "id": 785,
+    "title": "Polga o‘rnatiladigan konditsioner, 180 m²",
+    "model": "7AC4G60GFS1",
+    "series": "GOLD",
+    "price": 18788000,
+    "img": "img/785.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-180-m2-7ac4g60gfs1"
+   },
+   {
+    "id": 760,
+    "title": "AC/DC kolonna turidagi konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+    "model": "7AC4G60WFS1",
+    "series": "GOLD",
+    "price": 18129000,
+    "img": "img/760.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-acdc-dlia-pomeshhenii-do-180-m2-7ac4g60wfs1"
+   },
+   {
+    "id": 123,
+    "title": "Ultra sokin ishlash rejimiga ega konditsioner",
+    "model": "7AC4P24WSS1",
+    "series": "PLATINUM",
+    "price": 12981000,
+    "img": "img/123.webp",
+    "url": "https://seventech.uz/market/product-page/kondicioner-s-ultratixim-rezimom-raboty-7ac4p24wss1"
+   },
+   {
+    "id": 235,
+    "title": "3D havo oqimi funksiyasiga ega konditsioner",
+    "model": "7AC4P24GRS1",
+    "series": "PLATINUM",
+    "price": 10882000,
+    "img": "img/235.webp",
+    "url": "https://seventech.uz/market/product-page/kondicioner-s-funkciei-3d-potoka-vozduxa-7ac4p24grs1"
+   },
+   {
+    "id": 786,
+    "title": "Wi-Fi funksiyali polga o‘rnatiladigan inverter konditsioner, 72 m²",
+    "model": "7AC4P24GFS1",
+    "series": "PLATINUM",
+    "price": 10065000,
+    "img": "img/786.webp",
+    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-platinum-s-wi-fi-72-m2-7ac4p24gfs1"
+   }
+  ]
+ },
+ {
+  "slug": "ctiralnye-masiny",
+  "title": "Kir yuvish mashinalari",
+  "count": 19,
+  "url": "https://seventech.uz/market?category=ctiralnye-masiny",
+  "items": [
+   {
+    "id": 24,
+    "title": "Platinum 16 kg ikki barabanli kir yuvish va quritish mashinasi",
+    "model": "7WM4P1216TWINS1",
+    "series": "PLATINUM",
+    "price": 14762000,
+    "img": "img/24.webp",
+    "url": "https://seventech.uz/market/product-page/dvoinaia-stiralnaia-masina-s-suskoi-platinum-16-kg-7wm4p1216twins1"
+   },
+   {
+    "id": 818,
+    "title": "Bug‘li parvarish funksiyasiga ega, 12 kg yuvish va 9 kg quritish sig‘imli kir yuvish-quritish mashinasi",
+    "model": "7WM4P1412MWD1",
+    "series": "PLATINUM",
+    "price": 10065000,
+    "img": "img/818.webp",
+    "url": "https://seventech.uz/market/product-page/stiralno-susilnaia-masina-s-parovym-uxodom-12-kg-stirki-i-9-kg-suski-7wm4p1412mwd1"
+   },
+   {
+    "id": 25,
+    "title": "Sensorli boshqaruvga ega kir yuvish mashinasi",
+    "model": "7WM4P1410GBPS1",
+    "series": "PLATINUM",
+    "price": 6710000,
+    "img": "img/25.webp",
+    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-sensornym-upravleniem-7wm4p1410gbps1"
+   },
+   {
+    "id": 319,
+    "title": "Bug‘ bilan ishlov berish va 1400 ayl/min siqish tezligiga ega kir yuvish mashinasi, 10 kg",
+    "model": "7WM4P1410DNGS1",
+    "series": "PLATINUM",
+    "price": 6307000,
+    "img": "img/319.webp",
+    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-parovoi-obrabotkoi-i-otzimom-1400-obmin-10-kg-7wm4p1410dngs1"
+   },
+   {
+    "id": 32,
+    "title": "Smart kir yuvish mashinasi Platinum, 10 kg",
+    "model": "7WM4P1410GSS2",
+    "series": "PLATINUM",
+    "price": 6051000,
+    "img": "img/32.webp",
+    "url": "https://seventech.uz/market/product-page/umnaia-stiralnaia-masina-platinum-10-kg-7wm4p1410gss2"
+   },
+   {
+    "id": 30,
+    "title": "8 kg Gold kir yuvish mashinasi — inverter dvigatel vabug‘li yuvish",
+    "model": "7WM4G1480WSS3",
+    "series": "GOLD",
+    "price": 4709000,
+    "img": "img/30.webp",
+    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-8-kg-gold-s-invertornym-dvigatelem-i-parovoi-stirkoi-7wm4g1480wss3"
+   },
+   {
+    "id": 439,
+    "title": "Kulrang, bug‘ funksiyali va A+++ energiya sinfiga ega kir yuvish mashinasi, 10 kg",
+    "model": "7WM4G1210GSDS1",
+    "series": "GOLD",
+    "price": 4368000,
+    "img": "img/439.webp",
+    "url": "https://seventech.uz/market/product-page/seraia-stiralnaia-masina-s-parom-i-energoklassom-a-10-kg-7wm4g1210gsds1"
+   },
+   {
+    "id": 441,
+    "title": "Kulrang, bug‘ funksiyali va taymerli kir yuvish mashinasi, 10 kg",
+    "model": "7WM4G1210GDDS1",
+    "series": "GOLD",
+    "price": 4160000,
+    "img": "img/441.webp",
+    "url": "https://seventech.uz/market/product-page/seraia-stiralnaia-masina-s-parom-i-taimerom-10-kg-7wm4g1210gdds1"
+   },
+   {
+    "id": 418,
+    "title": "Inverterni dvigatelli kir yuvish mashinasi",
+    "model": "7WM4G1280GDS1",
+    "series": "GOLD",
+    "price": 3562000,
+    "img": "img/418.webp",
+    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-invertornym-motorom-7wm4g1280gds1"
+   },
+   {
+    "id": 501,
+    "title": "Bug‘ funksiyali va «Mening dasturim» funksiyasiga ega kir yuvish mashinasi, 8 kg",
+    "model": "7WM4S1280GSS2",
+    "series": "SILVER",
+    "price": 3221000,
+    "img": "img/501.webp",
+    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-parom-i-funkciei-moia-programma-8-kg-7wm4s1280gss2"
+   }
+  ]
+ },
+ {
+  "slug": "kofemasiny",
+  "title": "Kofemashinalar",
+  "count": 4,
+  "url": "https://seventech.uz/market?category=kofemasiny",
+  "items": [
+   {
+    "id": 509,
+    "title": "Kapuchinatorli Milano kofemashinasi",
+    "model": "7CM4PMILANOS1",
+    "series": "PLATINUM",
+    "price": 4978000,
+    "img": "img/509.webp",
+    "url": "https://seventech.uz/market/product-page/kofemasina-milano-s-kapucinatorom-7cm4pmilanos1"
+   },
+   {
+    "id": 528,
+    "title": "Verona Full Auto kofemashinasi",
+    "model": "7CM4GVERONAS1",
+    "series": "GOLD",
+    "price": 4575000,
+    "img": "img/528.webp",
+    "url": "https://seventech.uz/market/product-page/kofemasina-verona-full-auto-7cm4gveronas1"
+   },
+   {
+    "id": 186,
+    "title": "Sensorli boshqaruvga ega qahva mashinasi",
+    "model": "7CM4P1577BS1",
+    "series": "PLATINUM",
+    "price": 4294000,
+    "img": "img/186.webp",
+    "url": "https://seventech.uz/market/product-page/kofemasina-s-sensornym-upravleniem-7cm4p1577bs1"
+   },
+   {
+    "id": 527,
+    "title": "Barista Semi-Auto kofemashinasi",
+    "model": "7CM4PBARISTAS1",
+    "series": "PLATINUM",
+    "price": 4026000,
+    "img": "img/527.webp",
+    "url": "https://seventech.uz/market/product-page/kofemasina-barista-semi-auto-7cm4pbaristas1"
+   }
+  ]
+ },
+ {
+  "slug": "pylesosy",
+  "title": "Changyutgichlar",
+  "count": 7,
+  "url": "https://seventech.uz/market?category=pylesosy",
+  "items": [
+   {
+    "id": 312,
+    "title": "Quruq va nam tozalash uchun changyutgich",
+    "model": "7VC4P4020GS1",
+    "series": "PLATINUM",
+    "price": 3355000,
+    "img": "img/312.webp",
+    "url": "https://seventech.uz/market/product-page/pylesos-dlia-suxoi-i-vlaznoi-uborki-7vc4p4020gs1"
+   },
+   {
+    "id": 166,
+    "title": "Avto-tozalovchi stansiyali simsiz changyutgich",
+    "model": "7VC4P18STS1",
+    "series": "PLATINUM",
+    "price": 2562000,
+    "img": "img/166.webp",
+    "url": "https://seventech.uz/market/product-page/besprovodnoi-pylesos-so-stanciei-samoocistki-7vc4p18sts1"
+   },
+   {
+    "id": 505,
+    "title": "Past shovqinli, kam energiya sarflovchi changyutgich",
+    "model": "7VC4PSILENTS1",
+    "series": "PLATINUM",
+    "price": 1281000,
+    "img": "img/505.webp",
+    "url": "https://seventech.uz/market/product-page/tixii-pylesos-s-nizkim-energopotrebleniem-7vc4psilents1"
+   },
+   {
+    "id": 167,
+    "title": "Siklon chiqish filtrli changyutgich",
+    "model": "7VC4P18TRS1",
+    "series": "PLATINUM",
+    "price": 1281000,
+    "img": "img/167.webp",
+    "url": "https://seventech.uz/market/product-page/pylesos-s-ciklonnym-filtrom-7vc4p18trs1"
+   },
+   {
+    "id": 503,
+    "title": "Past shovqin tizimli changyutgich",
+    "model": "7VC4GSTORMS1",
+    "series": "GOLD",
+    "price": 1074000,
+    "img": "img/503.webp",
+    "url": "https://seventech.uz/market/product-page/pylesos-s-sistemoi-snizeniia-suma-7vc4gstorms1"
+   },
+   {
+    "id": 504,
+    "title": "Katta hajmli chang qopi va 2200 Vt motorli changyutgich",
+    "model": "7VC4GJETS1",
+    "series": "GOLD",
+    "price": 1037000,
+    "img": "img/504.webp",
+    "url": "https://seventech.uz/market/product-page/pylesos-s-vysokim-obieemom-meska-i-motorom-2200-vt-7vc4gjets1"
+   },
+   {
+    "id": 521,
+    "title": "Kuchli tortish quvvatiga ega HEPA filtrli changyutgich",
+    "model": "7VC4GBUGGYS1",
+    "series": "GOLD",
+    "price": 1013000,
+    "img": "img/521.webp",
+    "url": "https://seventech.uz/market/product-page/pylesos-s-moshhnym-vsasyvaniem-i-hepa-filtrom-7vc4gbuggys1"
+   }
+  ]
+ },
+ {
+  "slug": "ocistiteli-vozduxa",
+  "title": "Havo tozalagichlar",
+  "count": 4,
+  "url": "https://seventech.uz/market?category=ocistiteli-vozduxa",
+  "items": [
+   {
+    "id": 800,
+    "title": "Namlagichli Dual Care havo tozalagichi, kulrang",
+    "model": "7AP4PDUALCARES2",
+    "series": "PLATINUM",
+    "price": 2696000,
+    "img": "img/800.webp",
+    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-dual-care-s-uvlaznitelem-seryi-7ap4pdualcares2"
+   },
+   {
+    "id": 533,
+    "title": "VION havo tozalagichi",
+    "model": "7AP4PVIONS1",
+    "series": "PLATINUM",
+    "price": 2696000,
+    "img": "img/533.webp",
+    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-vion-7ap4pvions1"
+   },
+   {
+    "id": 511,
+    "title": "Dual Care namlagich bilan havo tozalagich",
+    "model": "7AP4PDUALCARES1",
+    "series": "PLATINUM",
+    "price": 2428000,
+    "img": "img/511.webp",
+    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-dual-care-s-uvlaznitelem-7ap4pdualcares1"
+   },
+   {
+    "id": 594,
+    "title": "Sun‘iy intellektga ega havo tozalagich",
+    "model": "7AP4GBRIOAIRS1",
+    "series": "GOLD",
+    "price": 1745000,
+    "img": "img/594.webp",
+    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-s-iskusstvennym-intellektom-7ap4gbrioairs1"
+   }
+  ]
+ },
+ {
+  "slug": "duxovye-skafy",
+  "title": "Pishirish javoni",
+  "count": 27,
+  "url": "https://seventech.uz/market?category=duxovye-skafy",
+  "items": [
+   {
+    "id": 793,
+    "title": "TFT-displeyli, ikki kamerali o‘rnatiladigan elektr pech",
+    "model": "ROYALCHEFONYX",
+    "series": null,
+    "price": 24839000,
+    "img": "img/793.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-elektriceskaia-duxovka-na-dve-kamery-s-tft-ekranom-royalchefonyx"
+   },
+   {
+    "id": 794,
+    "title": "Ikki kamerali o‘rnatiladigan elektr pech",
+    "model": "ROYALCHEFLUXE",
+    "series": null,
+    "price": 22826000,
+    "img": "img/794.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-elektriceskii-duxovoi-skaf-s-dvumia-kamerami-royalchefluxe"
+   },
+   {
+    "id": 489,
+    "title": "Konveksiya va grilga ega o‘rnatiladigan pech",
+    "model": "7BO4P7517BTFS1",
+    "series": "PLATINUM",
+    "price": 5441000,
+    "img": "img/489.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-konvekciei-i-grilem-7bo4p7517btfs1"
+   },
+   {
+    "id": 11,
+    "title": "16 ishlash rejimiga ega o‘rnatiladigan duxovka",
+    "model": "7BO4P7516BGS3",
+    "series": "PLATINUM",
+    "price": 4868000,
+    "img": "img/11.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-16-rezimami-raboty-7bo4p7516bgs3"
+   },
+   {
+    "id": 488,
+    "title": "Ko‘p rejimli pishirish uchun o‘rnatiladigan pech",
+    "model": "7BO4P7517BSGS1",
+    "series": "PLATINUM",
+    "price": 4843000,
+    "img": "img/488.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-dlia-mnogorezimnogo-prigotovleniia-7bo4p7517bsgs1"
+   },
+   {
+    "id": 259,
+    "title": "Konveksiya va 15 dasturli o‘rnatiladigan elektr duxovka",
+    "model": "7BO4P7415BTFS1",
+    "series": "PLATINUM",
+    "price": 4368000,
+    "img": "img/259.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-elektriceskii-duxovoi-skaf-s-konvekciei-i-15-programmami-7bo4p7415btfs1"
+   },
+   {
+    "id": 730,
+    "title": "72 l hajmli, konveksiyali o‘rnatiladigan duxovka",
+    "model": "7BO4P7214BS1",
+    "series": "PLATINUM",
+    "price": 4160000,
+    "img": "img/730.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-na-72-l-s-konvekciei-7bo4p7214bs1"
+   },
+   {
+    "id": 9,
+    "title": "Sensorli boshqaruvga ega o‘rnatiladigan duxovka",
+    "model": "7BO4G7810WGS1",
+    "series": "GOLD",
+    "price": 4026000,
+    "img": "img/9.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-sensornym-upravleniem-7bo4g7810wgs1"
+   },
+   {
+    "id": 10,
+    "title": "Sovitish va ventilyatsiya tizimiga ega o‘rnatiladigan duxovka",
+    "model": "7BO4G7810BGS2",
+    "series": "GOLD",
+    "price": 3904000,
+    "img": "img/10.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-sistemoi-oxlazdeniia-i-ventiliacii-7bo4g7810bgs2"
+   },
+   {
+    "id": 752,
+    "title": "13 dasturli va 300 °C gacha qiziydigan o‘rnatiladigan duxovka",
+    "model": "7BO4P7411MBKS1",
+    "series": "PLATINUM",
+    "price": 3831000,
+    "img": "img/752.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-13-programmami-i-nagrevom-do-300-c-7bo4p7411mbks1"
+   }
+  ]
+ },
+ {
+  "slug": "varocnye-paneli",
+  "title": "Pishirish panellari",
+  "count": 53,
+  "url": "https://seventech.uz/market?category=varocnye-paneli",
+  "items": [
+   {
+    "id": 798,
+    "title": "6 ta Defendi gorelkali gaz plitasi",
+    "model": "ROYALPROFIRE9",
+    "series": null,
+    "price": 14762000,
+    "img": "img/798.webp",
+    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-na-6-konforok-defendi-royalprofire9"
+   },
+   {
+    "id": 799,
+    "title": "4 ta Defendi gorelkali gaz plitasi",
+    "model": "ROYALPRIMEFIRE7",
+    "series": null,
+    "price": 13420000,
+    "img": "img/799.webp",
+    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-na-4-konforki-defendi-royalprimefire7"
+   },
+   {
+    "id": 159,
+    "title": "O‘rnatilgan tortgich va avtomatik yoqish funksiyasiga ega gazli pishirish paneli, 60 sm",
+    "model": "7GH4PCOMBS1",
+    "series": "PLATINUM",
+    "price": 6710000,
+    "img": "img/159.webp",
+    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-s-vstroennoi-vytiazkoi-i-avtopodzigom-60-sm-7gh4pcombs1"
+   },
+   {
+    "id": 49,
+    "title": "Panjarasi magnit bilan mahkamlanadigan o‘rnatiladigan pishirish paneli, 90 sm",
+    "model": "7GH4P90BGTS1",
+    "series": "PLATINUM",
+    "price": 3453000,
+    "img": "img/49.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-magnitnoi-fiksaciei-resetki-90-sm-7gh4p90bgts1"
+   },
+   {
+    "id": 50,
+    "title": "Masofadan boshqariladigan o‘rnatiladigan pishirish paneli, 90 sm",
+    "model": "7GH4P90SSTS2",
+    "series": "PLATINUM",
+    "price": 3453000,
+    "img": "img/50.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-distancionnym-upravleniem-90-sm-7gh4p90ssts2"
+   },
+   {
+    "id": 42,
+    "title": "FFD xavfsizlik tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+    "model": "7GH4G90SSS1",
+    "series": "GOLD",
+    "price": 3099000,
+    "img": "img/42.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-sistemoi-bezopasnosti-ffd-90-sm-7gh4g90sss1"
+   },
+   {
+    "id": 43,
+    "title": "Avtomatik yoqish tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+    "model": "7GH4G90BGS2",
+    "series": "GOLD",
+    "price": 2830000,
+    "img": "img/43.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-sistemoi-avtomaticeskogo-zaziganiia-90-sm-7gh4g90bgs2"
+   },
+   {
+    "id": 474,
+    "title": "Toblangan shishadan tayyorlangan pishirish paneli",
+    "model": "7GH4P90MBGS1",
+    "series": "PLATINUM",
+    "price": 2696000,
+    "img": "img/474.webp",
+    "url": "https://seventech.uz/market/product-page/varocnaia-panel-iz-zakalennogo-stekla-7gh4p90mbgs1"
+   },
+   {
+    "id": 149,
+    "title": "ARDA yondirgichli gazli pishirish paneli, 90 cm",
+    "model": "7GH4P90BGCS2",
+    "series": "PLATINUM",
+    "price": 2696000,
+    "img": "img/149.webp",
+    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-s-konforkami-arda-90-sm-7gh4p90bgcs2"
+   },
+   {
+    "id": 112,
+    "title": "Italiya ishlab chiqaruvchisidan o‘cho‘qlari o‘rnatiladigan pishirish paneli",
+    "model": "7GH4G90SPS1",
+    "series": "GOLD",
+    "price": 2489000,
+    "img": "img/112.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-gorelkami-ot-italianskogo-proizvoditelia-7gh4g90sps1"
+   }
+  ]
+ },
+ {
+  "slug": "vytiazki",
+  "title": "Dudbo‘ronlar",
+  "count": 39,
+  "url": "https://seventech.uz/market?category=vytiazki",
+  "items": [
+   {
+    "id": 806,
+    "title": "TFT-displey va masofadan boshqaruv pultiga ega devoriy oshxona tortgichi",
+    "model": "ROYALNOIR7",
+    "series": null,
+    "price": 10748000,
+    "img": "img/806.webp",
+    "url": "https://seventech.uz/market/product-page/nastennaia-vytiazka-s-tft-ekranom-i-pultom-royalnoir7"
+   },
+   {
+    "id": 807,
+    "title": "1000 m³/soat unumdorlikka ega devoriy oshxona tortgichi",
+    "model": "ROYALCROWN9",
+    "series": null,
+    "price": 8735000,
+    "img": "img/807.webp",
+    "url": "https://seventech.uz/market/product-page/nastennaia-vytiazka-s-proizvoditelnostiu-1000-m3c-royalcrown9"
+   },
+   {
+    "id": 134,
+    "title": "Keng orol turidagi oshxona uchun dudbo‘ron",
+    "model": "7RH4P90TISS1",
+    "series": "PLATINUM",
+    "price": 3526000,
+    "img": "img/134.webp",
+    "url": "https://seventech.uz/market/product-page/ostrovnaia-vytiazka-dlia-prostornoi-kuxni-7rh4p90tiss1"
+   },
+   {
+    "id": 146,
+    "title": "Ichki o‘rnatiladigan dudbo‘ron (reklirkulyatsiya tizimi bilan), 90 sm",
+    "model": "7RH4P9050BD1",
+    "series": "PLATINUM",
+    "price": 2489000,
+    "img": "img/146.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-vytiazka-s-recirkuliaciei-90-sm-7rh4p9050bd1"
+   },
+   {
+    "id": 76,
+    "title": "Yoritgichli po‘lat dudbo‘ron, 90 sm",
+    "model": "7RH4P9050SS1",
+    "series": "PLATINUM",
+    "price": 2050000,
+    "img": "img/76.webp",
+    "url": "https://seventech.uz/market/product-page/stalnaia-vytiazka-s-podsvetkoi-90-sm-7rh4p9050ss1"
+   },
+   {
+    "id": 77,
+    "title": "1000 m³/soat tezlikda ishlaydigan mo‘ri",
+    "model": "7RH4P9050BS1",
+    "series": "PLATINUM",
+    "price": 1879000,
+    "img": "img/77.webp",
+    "url": "https://seventech.uz/market/product-page/vytiazka-rabotaiushhaia-so-skorostiu-1000-m3c-7rh4p9050bs1"
+   },
+   {
+    "id": 128,
+    "title": "Oq shishadan dudbo‘ron",
+    "model": "7RH4P90WGS1",
+    "series": "PLATINUM",
+    "price": 1818000,
+    "img": "img/128.webp",
+    "url": "https://seventech.uz/market/product-page/uglovaia-vytiazka-iz-belogo-stekla-7rh4p90wgs1"
+   },
+   {
+    "id": 74,
+    "title": "Zanglamaydigan po‘latdan tayyorlangan dudbo‘ron, 60 sm",
+    "model": "7RH4P6050SS1",
+    "series": "PLATINUM",
+    "price": 1793000,
+    "img": "img/74.webp",
+    "url": "https://seventech.uz/market/product-page/vytiazka-iz-nerzaveiushhei-stali-60-sm-7rh4p6050ss1"
+   },
+   {
+    "id": 129,
+    "title": "Uch qavatli yog‘ tutkichli havo tortkich, 90 sm",
+    "model": "7RH4P90BGS2",
+    "series": "PLATINUM",
+    "price": 1745000,
+    "img": "img/129.webp",
+    "url": "https://seventech.uz/market/product-page/vytiazka-s-tremia-sloiami-ziroulovitelei-90-sm-7rh4p90bgs2"
+   },
+   {
+    "id": 75,
+    "title": "Sensorli boshqaruvli qora dudbo‘ron, 60 sm",
+    "model": "7RH4P6050BS1",
+    "series": "PLATINUM",
+    "price": 1745000,
+    "img": "img/75.webp",
+    "url": "https://seventech.uz/market/product-page/cernaia-vytiazka-s-sensornym-upravleniem60-sm-7rh4p6050bs1"
+   }
+  ]
+ },
+ {
+  "slug": "posudomoecnye-masiny",
+  "title": "Idish yuvish mashinalari",
+  "count": 9,
+  "url": "https://seventech.uz/market?category=posudomoecnye-masiny",
+  "items": [
+   {
+    "id": 510,
+    "title": "Rangli displey va past shovqin darajasiga ega to‘liq o‘lchamli idish yuvish mashinasi",
+    "model": "7DW4P15BMCDS2",
+    "series": "PLATINUM",
+    "price": 5307000,
+    "img": "img/510.webp",
+    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-cvetnym-displeem-i-nizkim-urovnem-suma-7dw4p15bmcds2"
+   },
+   {
+    "id": 158,
+    "title": "Sensorli boshqaruvga ega, 15 dasturli to‘liq o‘lchamli idish yuvish mashinasi",
+    "model": "7DW4P15BMCDS1",
+    "series": "PLATINUM",
+    "price": 5307000,
+    "img": "img/158.webp",
+    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-sensornym-upravleniem-i-15-programmami-7dw4p15bmcds1"
+   },
+   {
+    "id": 18,
+    "title": "Innovatsion quritish tizimiga ega idish yuvish mashinasi",
+    "model": "7DW4P1506GS2",
+    "series": "PLATINUM",
+    "price": 5124000,
+    "img": "img/18.webp",
+    "url": "https://seventech.uz/market/product-page/posudomoecnaia-masina-s-innovacionnoi-sistemoi-suski-7dw4p1506gs2"
+   },
+   {
+    "id": 17,
+    "title": "Suv yumshatgichga ega idish yuvish mashinasi",
+    "model": "7DW4P1503GS1",
+    "series": "PLATINUM",
+    "price": 4868000,
+    "img": "img/17.webp",
+    "url": "https://seventech.uz/market/product-page/posudomoecnaia-masina-so-smiagcitelem-vody-7dw4p1503gs1"
+   },
+   {
+    "id": 425,
+    "title": "O‘rnatiladigan idish yuvish mashinasi",
+    "model": "7BW4P6015MS1",
+    "series": "PLATINUM",
+    "price": 4709000,
+    "img": "img/425.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-posudomoecnaia-masina-7bw4p6015ms1"
+   },
+   {
+    "id": 341,
+    "title": "Past shovqin darajasi va qoldiq issiqlik bilan quritish funksiyali to‘liq o‘lchamli idish yuvish mashinasi",
+    "model": "7DW4P1506BS2",
+    "series": "PLATINUM",
+    "price": 4709000,
+    "img": "img/341.webp",
+    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-nizkim-urovnem-suma-i-suskoi-ostatocnym-teplom-7dw4p1506bs2"
+   },
+   {
+    "id": 506,
+    "title": "10 komplektli alohida turadigan idish yuvish mashinasi, 45 cm",
+    "model": "7BW4P4510MS1",
+    "series": "PLATINUM",
+    "price": 4294000,
+    "img": "img/506.webp",
+    "url": "https://seventech.uz/market/product-page/otdelnostoiashhaia-posudomoecnaia-masina-na-10-komplektov-45-sm-7bw4p4510ms1"
+   },
+   {
+    "id": 110,
+    "title": "O‘rnatiladigan to‘liq o‘lchamli idish yuvish mashinasi",
+    "model": "7BW4G6012MS1",
+    "series": "GOLD",
+    "price": 4221000,
+    "img": "img/110.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-polnorazmernaia-posudomoecnaia-masina-7bw4g6012ms1"
+   },
+   {
+    "id": 78,
+    "title": "Kengaytirilgan funksionalga ega o‘rnatiladigan idish yuvish mashinasi",
+    "model": "7BW4G4509MS1",
+    "series": "GOLD",
+    "price": 4099000,
+    "img": "img/78.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-posudomoecnaia-masina-s-rassirennym-funkcionalom-7bw4g4509ms1"
+   }
+  ]
+ },
+ {
+  "slug": "mikrovolnovye-peci",
+  "title": "Mikroto‘lqinli pechlar",
+  "count": 19,
+  "url": "https://seventech.uz/market?category=mikrovolnovye-peci",
+  "items": [
+   {
+    "id": 99,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 38 litr, 14 rejim",
+    "model": "7BM4P38WGS1",
+    "series": "PLATINUM",
+    "price": 4355000,
+    "img": "img/99.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-38-l-14-rezimov-7bm4p38wgs1"
+   },
+   {
+    "id": 7,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 38 L, qora korpus va pushti oltin aksent bilan",
+    "model": "7BM4P38BGS2",
+    "series": "PLATINUM",
+    "price": 3953000,
+    "img": "img/7.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-38-l-cernaia-s-akcentom-rozovogo-zolota-7bm4p38bgs2"
+   },
+   {
+    "id": 729,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 34 l, gril va sensorli boshqaruv bilan",
+    "model": "7BM4P34BS2",
+    "series": "PLATINUM",
+    "price": 2965000,
+    "img": "img/729.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-34-l-s-grilem-i-sensornym-upravleniem-7bm4p34bs2"
+   },
+   {
+    "id": 255,
+    "title": "O‘rnatiladigan, grilli va pastga ochiladigan eshikli mikroto‘lqinli pech",
+    "model": "7BM4P34BS1",
+    "series": "PLATINUM",
+    "price": 2623000,
+    "img": "img/255.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-otkidnoi-dvercei-7bm4p34bs1"
+   },
+   {
+    "id": 733,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 28 l, gril va displey bilan",
+    "model": "7BM4G28BS1",
+    "series": "GOLD",
+    "price": 2562000,
+    "img": "img/733.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-28-l-s-grilem-i-displeem-7bm4g28bs1"
+   },
+   {
+    "id": 254,
+    "title": "Grilli va displeyli qora o‘rnatiladigan mikroto‘lqinli pech",
+    "model": "7BM4G25BS3",
+    "series": "GOLD",
+    "price": 2244000,
+    "img": "img/254.webp",
+    "url": "https://seventech.uz/market/product-page/cernaia-vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-displeem-7bm4g25bs3"
+   },
+   {
+    "id": 82,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 25 litr, gril funksiyasi bilan",
+    "model": "7BM4G25BMS1",
+    "series": "GOLD",
+    "price": 1928000,
+    "img": "img/82.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-25-l-s-funkciei-gril-7bm4g25bms1"
+   },
+   {
+    "id": 249,
+    "title": "O‘rnatiladigan mikroto‘lqinli pech, 20 l, gril va displey bilan",
+    "model": "7BM4S20SS1",
+    "series": "SILVER",
+    "price": 1684000,
+    "img": "img/249.webp",
+    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-i-displeem-7bm4s20ss1"
+   },
+   {
+    "id": 248,
+    "title": "Qora, grilli va 20 litr hajmli o‘rnatiladigan mikroto‘lqinli pech",
+    "model": "7BM4S20BS1",
+    "series": "SILVER",
+    "price": 1656000,
+    "img": "img/248.webp",
+    "url": "https://seventech.uz/market/product-page/cernaia-vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-7bm4s20bs1"
+   },
+   {
+    "id": 84,
+    "title": "Mikroto‘lqinli pech, 23 litr, gril va 8 ta rejim bilan",
+    "model": "7MWO4P23MTS1",
+    "series": "PLATINUM",
+    "price": 1488000,
+    "img": "img/84.webp",
+    "url": "https://seventech.uz/market/product-page/mikrovolnovaia-pec-23-l-s-grilem-i-8-rezimami-7mwo4p23mts1"
+   }
+  ]
+ },
+ {
+  "slug": "aerogrili",
+  "title": "Aerogrillar",
+  "count": 3,
+  "url": "https://seventech.uz/market?category=aerogrili",
+  "items": [
+   {
+    "id": 829,
+    "title": "DualChef aerogrili, 11 l, 8 dastur, ikki tomonlama isitish, qora mat",
+    "model": "7AF4GDUALCHEFS1",
+    "series": "GOLD",
+    "price": 1147000,
+    "img": "img/829.webp",
+    "url": "https://seventech.uz/market/product-page/aerogril-dualchef-11-l-8-programm-dvoinoi-nagrev-cernyi-matovyi-7af4gdualchefs1"
+   },
+   {
+    "id": 828,
+    "title": "SmartChef aerogrili, 8 l, 8 dastur, Wi-Fi bilan, qora mat",
+    "model": "7AF4PSMARTCHEFS1",
+    "series": "PLATINUM",
+    "price": 1147000,
+    "img": "img/828.webp",
+    "url": "https://seventech.uz/market/product-page/aerogril-smartchef-8-l-8-programm-s-wi-fi-cernyi-matovyi-7af4psmartchefs1"
+   },
+   {
+    "id": 827,
+    "title": "Vision aerogrili, 6,5 l, 12 dastur, qora mat",
+    "model": "7AF4GVISIONS1",
+    "series": "GOLD",
+    "price": 939000,
+    "img": "img/827.webp",
+    "url": "https://seventech.uz/market/product-page/aerogril-vision-65-l-12-programm-cernyi-matovyi-7af4gvisions1"
+   }
+  ]
+ },
+ {
+  "slug": "blendery",
+  "title": "Blenderlar",
+  "count": 4,
+  "url": "https://seventech.uz/market?category=blendery",
+  "items": [
+   {
+    "id": 836,
+    "title": "Retro statsionar blenderi, 1400 Vt",
+    "model": "7TB4GRETROS1",
+    "series": "GOLD",
+    "price": 610000,
+    "img": "img/836.webp",
+    "url": "https://seventech.uz/market/product-page/stacionarnyi-blender-retro-1400-vt-7tb4gretros1"
+   },
+   {
+    "id": 835,
+    "title": "Nova qo‘l blenderi, 1000 Vt",
+    "model": "7HB4GNOVAS1",
+    "series": "GOLD",
+    "price": 537000,
+    "img": "img/835.webp",
+    "url": "https://seventech.uz/market/product-page/pogruznoi-blender-nova-1000-vt-7hb4gnovas1"
+   },
+   {
+    "id": 834,
+    "title": "Nova statsionar blenderi, 1300 Vt",
+    "model": "7TB4GNOVAS1",
+    "series": "GOLD",
+    "price": 537000,
+    "img": "img/834.webp",
+    "url": "https://seventech.uz/market/product-page/stacionarnyi-blender-nova-1300-vt-7tb4gnovas1"
+   },
+   {
+    "id": 838,
+    "title": "Retro qo‘l blenderi, 1000 Vt",
+    "model": "7HB4GRETROS1",
+    "series": "GOLD",
+    "price": 403000,
+    "img": "img/838.webp",
+    "url": "https://seventech.uz/market/product-page/pogruznoi-blender-retro-1000-vt-7hb4gretros1"
+   }
+  ]
+ },
+ {
+  "slug": "dispenser-dlia-vody",
+  "title": "Suv dispenseri",
+  "count": 11,
+  "url": "https://seventech.uz/market?category=dispenser-dlia-vody",
+  "items": [
+   {
+    "id": 34,
+    "title": "Muz generatorga ega suv dispenseri",
+    "model": "7WD4P62ICEWS2",
+    "series": "PLATINUM",
+    "price": 2147000,
+    "img": "img/34.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-ledogeneratorom-7wd4p62icews2"
+   },
+   {
+    "id": 469,
+    "title": "12 ta harorat rejimiga ega choy bari",
+    "model": "7TB4P2TLGS1",
+    "series": "PLATINUM",
+    "price": 1488000,
+    "img": "img/469.webp",
+    "url": "https://seventech.uz/market/product-page/cainyi-bar-s-12-rezimami-nagreva-7tb4p2tlgs1"
+   },
+   {
+    "id": 142,
+    "title": "Avtomatik isitish funksiyasiga ega choy bari.",
+    "model": "7TB4P1TDGS1",
+    "series": "PLATINUM",
+    "price": 1488000,
+    "img": "img/142.webp",
+    "url": "https://seventech.uz/market/product-page/cainyi-bar-s-avtomaticeskim-podogrevom-7tb4p1tdgs1"
+   },
+   {
+    "id": 143,
+    "title": "Choy bari 4 in 1, oq rangda",
+    "model": "7TB4P1TWS1",
+    "series": "PLATINUM",
+    "price": 1488000,
+    "img": "img/143.webp",
+    "url": "https://seventech.uz/market/product-page/cainyi-bar-4-v-1-belyi-7tb4p1tws1"
+   },
+   {
+    "id": 306,
+    "title": "Sensorli boshqaruvga ega suv dispenseri",
+    "model": "7TB4P2TDGS1",
+    "series": "PLATINUM",
+    "price": 1476000,
+    "img": "img/306.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-sensornym-upravleniem-7tb4p2tdgs1"
+   },
+   {
+    "id": 106,
+    "title": "Katta sovutish rezervuariga ega suv dispenseri",
+    "model": "7WD4G68WS3",
+    "series": "GOLD",
+    "price": 1476000,
+    "img": "img/106.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-bolsim-rezervuarom-dlia-oxlazdeniia-7wd4g68ws3"
+   },
+   {
+    "id": 36,
+    "title": "Yuqori isitish quvvatiga ega suv dispenseri",
+    "model": "7WD4G68WS2",
+    "series": "GOLD",
+    "price": 1464000,
+    "img": "img/36.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-vysokoi-moshhnostiu-nagreva-7wd4g68ws2"
+   },
+   {
+    "id": 145,
+    "title": "Bolalardan himoya funksiyasiga ega dispenser",
+    "model": "7WD4S105BCS1",
+    "series": "SILVER",
+    "price": 1244000,
+    "img": "img/145.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-s-funkciei-zashhity-ot-detei-7wd4s105bcs1"
+   },
+   {
+    "id": 502,
+    "title": "Bolalardan himoya funksiyali polga qo‘yiladigan suv dispenseri",
+    "model": "7WD4S106BCS1",
+    "series": "SILVER",
+    "price": 939000,
+    "img": "img/502.webp",
+    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-zashhitoi-ot-detei-7wd4s106bcs1"
+   }
+  ]
+ },
+ {
+  "slug": "videonabliudenie",
+  "title": "Video Kuzatuv",
+  "count": 26,
+  "url": "https://seventech.uz/market?category=videonabliudenie",
+  "items": [
+   {
+    "id": 892,
+    "title": "7ST-DP5432W(UZB Tashkent)",
+    "model": "7ST-DP5432W(UZB Tashkent)",
+    "series": null,
+    "price": 4478136,
+    "img": "img/892.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dp5432w-7st-dp5432wuzb-tashkent"
+   },
+   {
+    "id": 893,
+    "title": "7ST-DP4C425MW(UZB Tashkent)",
+    "model": "7ST-DP4C425MW(UZB Tashkent)",
+    "series": null,
+    "price": 4133664,
+    "img": "img/893.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dp4c425mw-7st-dp4c425mwuzb-tashkent"
+   },
+   {
+    "id": 891,
+    "title": "7ST-DP4425W(UZB Tashkent)",
+    "model": "7ST-DP4425W(UZB Tashkent)",
+    "series": null,
+    "price": 3375776,
+    "img": "img/891.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dp4425w-7st-dp4425wuzb-tashkent"
+   },
+   {
+    "id": 890,
+    "title": "7ST-DP4215W(UZB Tashkent)",
+    "model": "7ST-DP4215W(UZB Tashkent)",
+    "series": null,
+    "price": 2411304,
+    "img": "img/890.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dp4215w-7st-dp4215wuzb-tashkent"
+   },
+   {
+    "id": 889,
+    "title": "7ST-MP7A404W(UZB Tashkent)",
+    "model": "7ST-MP7A404W(UZB Tashkent)",
+    "series": null,
+    "price": 1653416,
+    "img": "img/889.webp",
+    "url": "https://seventech.uz/market/product-page/7st-mp7a404w-7st-mp7a404wuzb-tashkent"
+   },
+   {
+    "id": 885,
+    "title": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)",
+    "model": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)",
+    "series": null,
+    "price": 1405416,
+    "img": "img/885.webp",
+    "url": "https://seventech.uz/market/product-page/7st-di8087g2h-liu-28mm-ef-7st-di8087g2h-liu28mmuzb-tashkent"
+   },
+   {
+    "id": 884,
+    "title": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)",
+    "model": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)",
+    "series": null,
+    "price": 1033416,
+    "img": "img/884.webp",
+    "url": "https://seventech.uz/market/product-page/7st-di8047g2h-liu-28mm-ef-7st-di8047g2h-liu28mmuzb-tashkent"
+   },
+   {
+    "id": 882,
+    "title": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)",
+    "model": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)",
+    "series": null,
+    "price": 964472,
+    "img": "img/882.webp",
+    "url": "https://seventech.uz/market/product-page/7st-di7643g2-iz-28-12mm-c-7st-di7643g2-iz28-12mmuzb-tashkent"
+   },
+   {
+    "id": 883,
+    "title": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)",
+    "model": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)",
+    "series": null,
+    "price": 909664,
+    "img": "img/883.webp",
+    "url": "https://seventech.uz/market/product-page/7st-di8047g2-l-28mm-c-7st-di8047g2-l28mmuzb-tashkent"
+   },
+   {
+    "id": 881,
+    "title": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)",
+    "model": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)",
+    "series": null,
+    "price": 799180,
+    "img": "img/881.webp",
+    "url": "https://seventech.uz/market/product-page/7st-di7383g2-liu-7st-di7383g2-liu28mmuzb-tashkent"
+   }
+  ]
+ },
+ {
+  "slug": "domofoniia",
+  "title": "Domofonlar",
+  "count": 7,
+  "url": "https://seventech.uz/market?category=domofoniia",
+  "items": [
+   {
+    "id": 894,
+    "title": "7ST-SB8113-IME1",
+    "model": "7ST-SB8113-IME1",
+    "series": null,
+    "price": 3017292,
+    "img": "img/894.webp",
+    "url": "https://seventech.uz/market/product-page/7st-sb8113-ime1-7st-sb8113-ime1"
+   },
+   {
+    "id": 896,
+    "title": "7ST-S1T771MF",
+    "model": "7ST-S1T771MF",
+    "series": null,
+    "price": 2755776,
+    "img": "img/896.webp",
+    "url": "https://seventech.uz/market/product-page/7st-s1t771mf-7st-s1t771mf"
+   },
+   {
+    "id": 899,
+    "title": "7ST-DM8A10-W",
+    "model": "7ST-DM8A10-W",
+    "series": null,
+    "price": 1659864,
+    "img": "img/899.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dm8a10-w-7st-dm8a10-w"
+   },
+   {
+    "id": 900,
+    "title": "7ST-KIT603-P",
+    "model": "7ST-KIT603-P",
+    "series": null,
+    "price": 1377888,
+    "img": "img/900.webp",
+    "url": "https://seventech.uz/market/product-page/7st-kit603-p-7st-kit603-p"
+   },
+   {
+    "id": 898,
+    "title": "7ST-DM7750",
+    "model": "7ST-DM7750",
+    "series": null,
+    "price": 1176636,
+    "img": "img/898.webp",
+    "url": "https://seventech.uz/market/product-page/7st-dm7750-7st-dm7750"
+   },
+   {
+    "id": 897,
+    "title": "7ST-S1T543MFWX",
+    "model": "7ST-S1T543MFWX",
+    "series": null,
+    "price": 1054248,
+    "img": "img/897.webp",
+    "url": "https://seventech.uz/market/product-page/7st-s1t543mfwx-7st-s1t543mfwx"
+   },
+   {
+    "id": 895,
+    "title": "7ST-SV6113-WPE1",
+    "model": "7ST-SV6113-WPE1",
+    "series": null,
+    "price": 806000,
+    "img": "img/895.webp",
+    "url": "https://seventech.uz/market/product-page/7st-sv6113-wpe1-7st-sv6113-wpe1"
+   }
+  ]
+ }
+]
