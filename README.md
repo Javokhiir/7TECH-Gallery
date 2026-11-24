@@ -7,5 +7,5 @@ Built with Next.js and three.js.
 ```bash
 npm install
 npm run dev              # http://localhost:3000
-npm run fetch-products   # refresh src/data/data.json and public/img from api.seventech.uz
+npm run fetch-products   # refresh the product data and images
 ```
