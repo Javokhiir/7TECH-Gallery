@@ -1,0 +1,28 @@
+.switcher {
+  display: flex;
+  padding: 2px;
+  border: 1px solid var(--line-field);
+  border-radius: 999px;
+}
+
+.switcher button {
+  font: var(--fs-chrome) var(--font-mono);
+  letter-spacing: 0.08em;
+  padding: 5px 9px;
+  border-radius: 999px;
+  color: var(--dim);
+  transition: color var(--dur-fast) ease, background var(--dur-fast) ease;
+}
+
+.switcher button:hover {
+  color: var(--ink);
+}
+
+.switcher button.on {
+  background: var(--ink);
+  color: #111;
+}
+
+.switcher[aria-busy="true"] {
+  opacity: 0.6;
+}

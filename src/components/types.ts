@@ -1,3 +1,4 @@
+/** a product as the UI sees it: already resolved to one language */
 export type Product = {
   id: number;
   title: string;
@@ -16,4 +17,6 @@ export type Collection = {
   items: Product[];
 };
 
-export const formatPrice = (n: number) => `${n.toLocaleString("ru-RU").replace(/ /g, " ")} so‘m`;
+/** price with locale digit grouping and the localized currency name */
+export const formatPrice = (n: number, locale: string, currency: string) =>
+  `${new Intl.NumberFormat(locale === "en" ? "en-US" : "ru-RU").format(n).replace(/\s/g, " ")} ${currency}`;

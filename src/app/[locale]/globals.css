@@ -31,6 +31,11 @@
   --z-header: 20;
   --f-brand: "Druk 7TECH";
 }
+/* Anton and Fraunces have no Cyrillic: Russian pages use Oswald and Lora instead */
+:root:lang(ru) {
+  --font-display: var(--f-display-cyr), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-body: var(--f-serif-cyr), "Times New Roman", Times, serif;
+}
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); overflow: hidden; }
 body { font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
@@ -96,6 +101,10 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   .slogan { margin-left: 0; padding-left: 0.7rem; font-size: 0.56rem; }
   .logo svg { width: 76px; }
 }
+@media (max-width: 30rem) {
+  /* phones: room for the language switcher and cart; the slogan still shows on the walls and loader */
+  .slogan { display: none; }
+}
 
 /* ---------- list view ---------- */
 .list { position: fixed; z-index: calc(var(--z-header) - 2); inset: var(--bar-h) 0 0 0; overflow: auto; background: var(--bg); padding: 4rem var(--page-gutter) 5rem; }
@@ -109,3 +118,9 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .list .card .t { font: 0.9rem/1.3 var(--font-body); margin-top: 8px; }
 .list .card .p { font: 0.75rem var(--font-mono); color: var(--dim); margin-top: 4px; }
 .list .empty { font: 1.1rem var(--font-body); color: var(--dim); }
+
+/* ---------- not found ---------- */
+.not-found { min-height: 100dvh; display: grid; place-content: center; justify-items: center; gap: 1.2rem; text-align: center; padding: var(--page-gutter); }
+.not-found-logo { width: 140px; color: var(--ink); }
+.not-found h1 { margin: 0; font: 400 clamp(2rem, 5vw, 3.4rem)/1 var(--font-display); text-transform: uppercase; }
+.not-found a { font: var(--fs-chrome) var(--font-mono); letter-spacing: var(--track-chrome); text-transform: uppercase; text-underline-offset: 0.3em; }

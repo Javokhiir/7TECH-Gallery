@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { formatPrice, type Collection, type Product } from "./types";
+import { useTranslations } from "next-intl";
+import type { Collection, Product } from "./types";
+import { usePrice } from "@/i18n/usePrice";
 import styles from "./SearchResults.module.css";
 
 export type SearchHit = { product: Product; collection: Collection };
@@ -42,6 +44,8 @@ export default function SearchResults({
   onHover: (index: number) => void;
   onPick: (productId: number) => void;
 }) {
+  const t = useTranslations("header");
+  const price = usePrice();
   const panel = useRef<HTMLDivElement>(null);
 
   // Native listeners so the 3D view behind never sees wheel / pointerdown from the dropdown.
@@ -73,7 +77,7 @@ export default function SearchResults({
       onPointerDown={(e) => e.stopPropagation()}
     >
       {hits.length ? (
-        <ul id={id} role="listbox" aria-label="Qidiruv natijalari" className={styles.list}>
+        <ul id={id} role="listbox" aria-label={t("searchResults")} className={styles.list}>
           {hits.map(({ product, collection }, i) => (
             <li
               key={product.id}
@@ -92,15 +96,15 @@ export default function SearchResults({
               <span className={styles.text}>
                 <span className={styles.title}>{product.title}</span>
                 <span className={styles.meta}>
-                  {collection.title} · {formatPrice(product.price)}
+                  {collection.title} · {price(product.price)}
                 </span>
               </span>
             </li>
           ))}
         </ul>
       ) : (
-        <div id={id} role="listbox" aria-label="Qidiruv natijalari" className={styles.empty}>
-          “{query.trim()}” bo‘yicha hech narsa topilmadi.
+        <div id={id} role="listbox" aria-label={t("searchResults")} className={styles.empty}>
+          {t("searchEmpty", { query: query.trim() })}
         </div>
       )}
     </div>

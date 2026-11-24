@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect } from "react";
-import { formatPrice, type Product } from "./types";
+import { useTranslations } from "next-intl";
+import type { Product } from "./types";
+import { usePrice } from "@/i18n/usePrice";
 import styles from "./ProductCard.module.css";
 
 export default function ProductCard({
@@ -13,6 +15,9 @@ export default function ProductCard({
   collection: string;
   onClose: () => void;
 }) {
+  const t = useTranslations("card");
+  const price = usePrice();
+
   useEffect(() => {
     if (!product) return;
     const onKey = (e: KeyboardEvent) => {
@@ -26,7 +31,7 @@ export default function ProductCard({
 
   return (
     <aside key={product.id} className={styles.card} role="dialog" aria-label={product.title}>
-      <button type="button" className={styles.close} aria-label="Yopish" onClick={onClose}>
+      <button type="button" className={styles.close} aria-label={t("close")} onClick={onClose}>
         ✕
       </button>
       <div className={styles.media}>
@@ -37,10 +42,10 @@ export default function ProductCard({
         <p className={styles.kicker}>{collection}</p>
         <h2 className={styles.title}>{product.title}</h2>
         {product.model ? <p className={styles.model}>{product.model}</p> : null}
-        <p className={styles.price}>{formatPrice(product.price)}</p>
+        <p className={styles.price}>{price(product.price)}</p>
       </div>
       <a className={styles.cta} href={product.url} target="_blank" rel="noopener noreferrer">
-        Do‘konda ko‘rish →
+        {t("shop")}
       </a>
     </aside>
   );

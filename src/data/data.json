@@ -1,1494 +1,2147 @@
 [
  {
   "slug": "smartfony",
-  "title": "Smartfonlar",
+  "title": {
+   "uz": "Smartfonlar",
+   "ru": "Смартфоны",
+   "en": "Smartphones"
+  },
   "count": 4,
-  "url": "https://seventech.uz/market?category=smartfony",
   "items": [
    {
     "id": 826,
-    "title": "CONNECT U7 smartfoni, 8/256 GB, Black",
+    "title": {
+     "uz": "CONNECT U7 smartfoni, 8/256 GB, Black",
+     "ru": "Смартфон CONNECT U7, 8/256 GB, Black",
+     "en": "CONNECT U7 Smartphone, 8/256 GB, Black"
+    },
     "model": "7TCMPU76G8256BS1",
     "series": "GOLD",
     "price": 3600000,
     "img": "img/826.webp",
-    "url": "https://seventech.uz/market/product-page/smartfon-connect-u7-8256-gb-black-7tcmpu76g8256bs1"
+    "slug": "smartfon-connect-u7-8256-gb-black-7tcmpu76g8256bs1"
    },
    {
     "id": 825,
-    "title": "CONNECT U7 smartfoni, 8/128 GB, Black",
+    "title": {
+     "uz": "CONNECT U7 smartfoni, 8/128 GB, Black",
+     "ru": "Смартфон CONNECT U7, 8/128 GB, Black",
+     "en": "CONNECT U7 Smartphone, 8/128 GB, Black"
+    },
     "model": "7TCMPU76G8512BS1",
     "series": "GOLD",
     "price": 3388000,
     "img": "img/825.webp",
-    "url": "https://seventech.uz/market/product-page/smartfon-connect-u7-8128-gb-black-7tcmpu76g8512bs1"
+    "slug": "smartfon-connect-u7-8128-gb-black-7tcmpu76g8512bs1"
    }
   ]
  },
  {
   "slug": "televizory",
-  "title": "Televizorlar",
+  "title": {
+   "uz": "Televizorlar",
+   "ru": "Телевизоры",
+   "en": "TVs"
+  },
   "count": 25,
-  "url": "https://seventech.uz/market?category=televizory",
   "items": [
    {
     "id": 59,
-    "title": "OLED 4K Smart TV 77\"",
+    "title": {
+     "uz": "OLED 4K Smart TV 77\"",
+     "ru": "OLED 4K Google TV 77\"",
+     "en": "OLED 4K Smart TV 77\""
+    },
     "model": "7TV4P77OLEDS1",
     "series": "PLATINUM",
     "price": 38259000,
     "img": "img/59.webp",
-    "url": "https://seventech.uz/market/product-page/oled-4k-google-tv-77-7tv4p77oleds1"
+    "slug": "oled-4k-google-tv-77-7tv4p77oleds1"
    },
    {
     "id": 773,
-    "title": "MiniLED 4K Smart TV 100″ 144 Hz",
+    "title": {
+     "uz": "MiniLED 4K Smart TV 100″ 144 Hz",
+     "ru": "MiniLED 4K Smart TV 100″ 144 Гц",
+     "en": "MiniLED 4K Smart TV 100″ 144 Hz"
+    },
     "model": "7TV6G100LED144HZ",
     "series": "GOLD",
     "price": 32074000,
     "img": "img/773.webp",
-    "url": "https://seventech.uz/market/product-page/miniled-4k-smart-tv-100-144-gc-7tv6g100led144hz"
+    "slug": "miniled-4k-smart-tv-100-144-gc-7tv6g100led144hz"
    },
    {
     "id": 109,
-    "title": "OLED 4K Smart TV 65\" 120 Gts chastotada",
+    "title": {
+     "uz": "OLED 4K Smart TV 65\" 120 Gts chastotada",
+     "ru": "OLED 4K Smart TV 65\" с частотой 120 Гц",
+     "en": "OLED 4K Smart TV 65\" with 120 Hz Refresh Rate"
+    },
     "model": "7TV4P65OLEDS1",
     "series": "PLATINUM",
     "price": 18459000,
     "img": "img/109.webp",
-    "url": "https://seventech.uz/market/product-page/oled-4k-smart-tv-65-s-castotoi-120-gc-7tv4p65oleds1"
+    "slug": "oled-4k-smart-tv-65-s-castotoi-120-gc-7tv4p65oleds1"
    },
    {
     "id": 57,
-    "title": "Google TV va 144 Gts chastotali 75″ katta televizor",
+    "title": {
+     "uz": "Google TV va 144 Gts chastotali 75″ katta televizor",
+     "ru": "Большой телевизор 75″ с Google TV и частотой 144 Гц",
+     "en": "Large 75″ TV with Google TV and 144 Hz Refresh Rate"
+    },
     "model": "7TV4P75MLEDS1",
     "series": "PLATINUM",
     "price": 14091000,
     "img": "img/57.webp",
-    "url": "https://seventech.uz/market/product-page/bolsoi-televizor-75-s-google-tv-i-castotoi-144-gc-7tv4p75mleds1"
+    "slug": "bolsoi-televizor-75-s-google-tv-i-castotoi-144-gc-7tv4p75mleds1"
    },
    {
     "id": 774,
-    "title": "QLED 4K Smart TV 85″",
+    "title": {
+     "uz": "QLED 4K Smart TV 85″",
+     "ru": "QLED 4K Smart TV 85″",
+     "en": "QLED 4K Smart TV 85″"
+    },
     "model": "7TV6G85QLEDW7",
     "series": "GOLD",
     "price": 13957000,
     "img": "img/774.webp",
-    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-85-7tv6g85qledw7"
+    "slug": "qled-4k-smart-tv-85-7tv6g85qledw7"
    },
    {
     "id": 775,
-    "title": "QLED 4K Smart TV 85″ 120 Hz",
+    "title": {
+     "uz": "QLED 4K Smart TV 85″ 120 Hz",
+     "ru": "QLED 4K Smart TV 85″ 120 Гц",
+     "en": "QLED 4K Smart TV 85″ 120 Hz"
+    },
     "model": "7TV6G85QLEDG120HZ",
     "series": "GOLD",
     "price": 13762000,
     "img": "img/775.webp",
-    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-85-120-gc-7tv6g85qledg120hz"
+    "slug": "qled-4k-smart-tv-85-120-gc-7tv6g85qledg120hz"
    },
    {
     "id": 58,
-    "title": "OLED 4K 55\" Google TV Televizori",
+    "title": {
+     "uz": "OLED 4K 55\" Google TV Televizori",
+     "ru": "Телевизор OLED 4K 55\" с Google TV",
+     "en": "OLED 4K TV 55\" with Google TV"
+    },
     "model": "7TV4P55OLEDS1",
     "series": "PLATINUM",
     "price": 13286000,
     "img": "img/58.webp",
-    "url": "https://seventech.uz/market/product-page/televizor-oled-4k-55-s-google-tv-7tv4p55oleds1"
+    "slug": "televizor-oled-4k-55-s-google-tv-7tv4p55oleds1"
    },
    {
     "id": 177,
-    "title": "Google TV‘li QLED 4K televizor, 65″",
+    "title": {
+     "uz": "Google TV‘li QLED 4K televizor, 65″",
+     "ru": "Телевизор QLED 4K с Google TV, 65″",
+     "en": "65″ QLED 4K TV with Google TV"
+    },
     "model": "7TV4G65QLEDWS1",
     "series": "GOLD",
     "price": 9333000,
     "img": "img/177.webp",
-    "url": "https://seventech.uz/market/product-page/televizor-qled-4k-s-google-tv-65-7tv4g65qledws1"
+    "slug": "televizor-qled-4k-s-google-tv-65-7tv4g65qledws1"
    },
    {
     "id": 56,
-    "title": "Google TV va IPS ekranli 65″ 4K televizor",
+    "title": {
+     "uz": "Google TV va IPS ekranli 65″ 4K televizor",
+     "ru": "65″ 4K телевизор с Google TV и IPS-экраном",
+     "en": "65″ 4K TV with Google TV and IPS Display"
+    },
     "model": "7TV4P65MLEDS1",
     "series": "PLATINUM",
     "price": 9199000,
     "img": "img/56.webp",
-    "url": "https://seventech.uz/market/product-page/65-4k-televizor-s-google-tv-i-ips-ekranom-7tv4p65mleds1"
+    "slug": "65-4k-televizor-s-google-tv-i-ips-ekranom-7tv4p65mleds1"
    },
    {
     "id": 777,
-    "title": "QLED 4K Smart TV 75″",
+    "title": {
+     "uz": "QLED 4K Smart TV 75″",
+     "ru": "QLED 4K Smart TV 75″",
+     "en": "QLED 4K Smart TV 75″"
+    },
     "model": "7TV6G75QLEDW7",
     "series": "GOLD",
     "price": 9065000,
     "img": "img/777.webp",
-    "url": "https://seventech.uz/market/product-page/qled-4k-smart-tv-75-7tv6g75qledw7"
+    "slug": "qled-4k-smart-tv-75-7tv6g75qledw7"
    }
   ]
  },
  {
   "slug": "monitory",
-  "title": "Monitorlar",
+  "title": {
+   "uz": "Monitorlar",
+   "ru": "Мониторы",
+   "en": "Monitors"
+  },
   "count": 17,
-  "url": "https://seventech.uz/market?category=monitory",
   "items": [
    {
     "id": 387,
-    "title": "OLED UltraWide monitor, 45 dyuym, 3440×1440",
+    "title": {
+     "uz": "OLED UltraWide monitor, 45 dyuym, 3440×1440",
+     "ru": "OLED-монитор UltraWide, 45 дюймов, 3440×1440",
+     "en": "OLED UltraWide Monitor, 45 Inches, 3440×1440"
+    },
     "model": "7M4P45C240",
     "series": "PLATINUM",
     "price": 16770000,
     "img": "img/387.webp",
-    "url": "https://seventech.uz/market/product-page/oled-monitor-ultrawide-45-diuimov-34401440-7m4p45c240"
+    "slug": "oled-monitor-ultrawide-45-diuimov-34401440-7m4p45c240"
    },
    {
     "id": 386,
-    "title": "OLED monitor, 42 dyuym, 3840×2160",
+    "title": {
+     "uz": "OLED monitor, 42 dyuym, 3840×2160",
+     "ru": "OLED-монитор, 42 дюйма, 3840×2160",
+     "en": "OLED Monitor, 42 Inches, 3840×2160"
+    },
     "model": "7M4P42F120",
     "series": "PLATINUM",
     "price": 12384000,
     "img": "img/386.webp",
-    "url": "https://seventech.uz/market/product-page/oled-monitor-42-diuima-38402160-7m4p42f120"
+    "slug": "oled-monitor-42-diuima-38402160-7m4p42f120"
    },
    {
     "id": 384,
-    "title": "VA Super UltraWide monitor, 49 dyuym, 5120×1440",
+    "title": {
+     "uz": "VA Super UltraWide monitor, 49 dyuym, 5120×1440",
+     "ru": "VA-монитор Super UltraWide, 49 дюймов, 5120×1440",
+     "en": "VA Super UltraWide Monitor, 49 Inches, 5120×1440"
+    },
     "model": "7M4P49C240",
     "series": "PLATINUM",
     "price": 10320000,
     "img": "img/384.webp",
-    "url": "https://seventech.uz/market/product-page/va-monitor-super-ultrawide-49-diuimov-51201440-7m4p49c240"
+    "slug": "va-monitor-super-ultrawide-49-diuimov-51201440-7m4p49c240"
    },
    {
     "id": 385,
-    "title": "OLED monitor, 27 dyuym",
+    "title": {
+     "uz": "OLED monitor, 27 dyuym",
+     "ru": "OLED-монитор, 27 дюймов",
+     "en": "OLED Monitor, 27 Inches"
+    },
     "model": "7M4P27F240",
     "series": "PLATINUM",
     "price": 8514000,
     "img": "img/385.webp",
-    "url": "https://seventech.uz/market/product-page/oled-monitor-27-diuimov-7m4p27f240"
+    "slug": "oled-monitor-27-diuimov-7m4p27f240"
    },
    {
     "id": 931,
-    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, 160 Hz, kulrang",
+    "title": {
+     "uz": "4K aniqlikdagi 27 dyuymli IPS monitor, 160 Hz, kulrang",
+     "ru": "IPS монитор с разрешением 4K, 27 дюймов, 160 Гц, серый",
+     "en": "27-inch IPS monitor with 4K resolution, 160 Hz, gray"
+    },
     "model": "7M4P27F16027",
     "series": "PLATINUM",
     "price": 4150000,
     "img": "img/931.webp",
-    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-160-gc-seryi-7m4p27f16027"
+    "slug": "ips-monitor-s-razreseniem-4k-27-diuimov-160-gc-seryi-7m4p27f16027"
    },
    {
     "id": 930,
-    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, 60 Hz, ko‘k",
+    "title": {
+     "uz": "4K aniqlikdagi 27 dyuymli IPS monitor, 60 Hz, ko‘k",
+     "ru": "IPS монитор с разрешением 4K, 27 дюймов, 60 Гц, синий",
+     "en": "27-inch IPS monitor with 4K resolution, 60 Hz, blue"
+    },
     "model": "7M4P27F060B27",
     "series": "PLATINUM",
     "price": 2950000,
     "img": "img/930.webp",
-    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-60-gc-sinii-7m4p27f060b27"
+    "slug": "ips-monitor-s-razreseniem-4k-27-diuimov-60-gc-sinii-7m4p27f060b27"
    },
    {
     "id": 929,
-    "title": "4K aniqlikdagi 27 dyuymli IPS monitor, kulrang",
+    "title": {
+     "uz": "4K aniqlikdagi 27 dyuymli IPS monitor, kulrang",
+     "ru": "IPS монитор с разрешением 4K, 27 дюймов, серый",
+     "en": "27-inch IPS monitor with 4K resolution, gray"
+    },
     "model": "7M4P27F060GY27",
     "series": "PLATINUM",
     "price": 2950000,
     "img": "img/929.webp",
-    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-4k-27-diuimov-seryi-7m4p27f060gy27"
+    "slug": "ips-monitor-s-razreseniem-4k-27-diuimov-seryi-7m4p27f060gy27"
    },
    {
     "id": 383,
-    "title": "Full HD aniqlikdagi VA monitor, 32 dyuym",
+    "title": {
+     "uz": "Full HD aniqlikdagi VA monitor, 32 dyuym",
+     "ru": "VA монитор с разрешением Full HD, 32 дюйма",
+     "en": "VA Monitor with Full HD Resolution, 32 Inches"
+    },
     "model": "7M4S32C180",
     "series": "SILVER",
     "price": 2451000,
     "img": "img/383.webp",
-    "url": "https://seventech.uz/market/product-page/va-monitor-s-razreseniem-full-hd-32-diuima-7m4s32c180"
+    "slug": "va-monitor-s-razreseniem-full-hd-32-diuima-7m4s32c180"
    },
    {
     "id": 382,
-    "title": "2K aniqlikdagi IPS monitor, 27 dyuym",
+    "title": {
+     "uz": "2K aniqlikdagi IPS monitor, 27 dyuym",
+     "ru": "IPS монитор с 2К разрешением, 27 дюймов",
+     "en": "IPS Monitor with 2K Resolution, 27 Inches"
+    },
     "model": "7M4G27F181S1",
     "series": "GOLD",
     "price": 2193000,
     "img": "img/382.webp",
-    "url": "https://seventech.uz/market/product-page/ips-monitor-s-2k-razreseniem-27-diuimov-7m4g27f181s1"
+    "slug": "ips-monitor-s-2k-razreseniem-27-diuimov-7m4g27f181s1"
    },
    {
     "id": 921,
-    "title": "QHD aniqlikdagi 27 dyuymli IPS monitor, 180 Hz, kulrang",
+    "title": {
+     "uz": "QHD aniqlikdagi 27 dyuymli IPS monitor, 180 Hz, kulrang",
+     "ru": "IPS монитор с разрешением QHD, 27 дюймов, 180 Гц, серый",
+     "en": "27-inch IPS monitor with QHD resolution, 180 Hz, gray"
+    },
     "model": "7M4G27F180S2W27",
     "series": "GOLD",
     "price": 1870000,
     "img": "img/921.webp",
-    "url": "https://seventech.uz/market/product-page/ips-monitor-s-razreseniem-qhd-27-diuimov-180-gc-seryi-7m4g27f180s2w27"
+    "slug": "ips-monitor-s-razreseniem-qhd-27-diuimov-180-gc-seryi-7m4g27f180s2w27"
    }
   ]
  },
  {
   "slug": "xolodilniki",
-  "title": "Sovutgichlar",
+  "title": {
+   "uz": "Sovutgichlar",
+   "ru": "Холодильники",
+   "en": "Refrigerators"
+  },
   "count": 37,
-  "url": "https://seventech.uz/market?category=xolodilniki",
   "items": [
    {
     "id": 65,
-    "title": "Katta LED displeyli sovutgich",
+    "title": {
+     "uz": "Katta LED displeyli sovutgich",
+     "ru": "Холодильник с большим LED-дисплеем",
+     "en": "Refrigerator with a Large LED Display"
+    },
     "model": "7REF4P536DIS2",
     "series": "PLATINUM",
     "price": 24900000,
     "img": "img/65.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-s-bolsim-led-displeem-7ref4p536dis2"
+    "slug": "xolodilnik-s-bolsim-led-displeem-7ref4p536dis2"
    },
    {
     "id": 431,
-    "title": "Kengaytirilgan hajmli No Frost sovutgich, 531 L",
+    "title": {
+     "uz": "Kengaytirilgan hajmli No Frost sovutgich, 531 L",
+     "ru": "Холодильник No Frost с увеличенным объемом, 531 л",
+     "en": "No Frost Refrigerator with Increased Capacity, 531 L"
+    },
     "model": "7REF4P531BGS3",
     "series": "PLATINUM",
     "price": 20813000,
     "img": "img/431.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-uvelicennym-obieemom-531-l-7ref4p531bgs3"
+    "slug": "xolodilnik-no-frost-s-uvelicennym-obieemom-531-l-7ref4p531bgs3"
    },
    {
     "id": 64,
-    "title": "Tashqi boshqaruv panelli alohida turadigan sovutgich, 591 L, qora",
+    "title": {
+     "uz": "Tashqi boshqaruv panelli alohida turadigan sovutgich, 591 L, qora",
+     "ru": "Отдельностоящий холодильник с внешней панелью управления, 591 л, чёрный",
+     "en": "Freestanding Refrigerator with External Control Panel, 591 L, Black"
+    },
     "model": "7REF4P591BGS2",
     "series": "PLATINUM",
     "price": 16104000,
     "img": "img/64.webp",
-    "url": "https://seventech.uz/market/product-page/otdelnostoiashhii-xolodilnik-s-vnesnei-paneliu-upravleniia-591-l-cernyi-7ref4p591bgs2"
+    "slug": "otdelnostoiashhii-xolodilnik-s-vnesnei-paneliu-upravleniia-591-l-cernyi-7ref4p591bgs2"
    },
    {
     "id": 771,
-    "title": "No Frost sovutgich, pastki muzlatkich bilan, 680 L, to‘q kulrang",
+    "title": {
+     "uz": "No Frost sovutgich, pastki muzlatkich bilan, 680 L, to‘q kulrang",
+     "ru": "Холодильник No Frost с нижней морозильной камерой, 680 л, темно-серый",
+     "en": "No Frost Refrigerator with Bottom Freezer, 680 L, Dark Gray"
+    },
     "model": "7REF4P680DGS3",
     "series": "PLATINUM",
     "price": 10346000,
     "img": "img/771.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-temno-seryi-7ref4p680dgs3"
+    "slug": "xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-temno-seryi-7ref4p680dgs3"
    },
    {
     "id": 769,
-    "title": "Pastki muzlatkichli No Frost sovutgich, 680 L, oq",
+    "title": {
+     "uz": "Pastki muzlatkichli No Frost sovutgich, 680 L, oq",
+     "ru": "Холодильник No Frost с нижней морозильной камерой, 680 л, белый",
+     "en": "No Frost Refrigerator with Bottom Freezer, 680 L, White"
+    },
     "model": "7REF4P680WS3",
     "series": "PLATINUM",
     "price": 10077000,
     "img": "img/769.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-belyi-7ref4p680ws3"
+    "slug": "xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-680-l-belyi-7ref4p680ws3"
    },
    {
     "id": 86,
-    "title": "Oziq-ovqat mahsulotlarini saqlash uchun maxsus joylarga ega sovutgich",
+    "title": {
+     "uz": "Oziq-ovqat mahsulotlarini saqlash uchun maxsus joylarga ega sovutgich",
+     "ru": "Холодильник со специальными зонами для хранения продуктов",
+     "en": "Refrigerator with Special Zones for Food Storage"
+    },
     "model": "7REF4P503BGS3",
     "series": "PLATINUM",
     "price": 10077000,
     "img": "img/86.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-so-specialnymi-zonami-dlia-xraneniia-produktov-7ref4p503bgs3"
+    "slug": "xolodilnik-so-specialnymi-zonami-dlia-xraneniia-produktov-7ref4p503bgs3"
    },
    {
     "id": 85,
-    "title": "Sensorli boshqaruvli sovutgich",
+    "title": {
+     "uz": "Sensorli boshqaruvli sovutgich",
+     "ru": "Холодильник с сенсорным управлением",
+     "en": "Refrigerator with Touch Control"
+    },
     "model": "7REF4P503DIS3",
     "series": "PLATINUM",
     "price": 9809000,
     "img": "img/85.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-s-sensornym-upravleniem-7ref4p503dis3"
+    "slug": "xolodilnik-s-sensornym-upravleniem-7ref4p503dis3"
    },
    {
     "id": 62,
-    "title": "Metal Cooling sovitish tizimiga ega sovutgich",
+    "title": {
+     "uz": "Metal Cooling sovitish tizimiga ega sovutgich",
+     "ru": "Холодильник с системой охлаждения Metal Cooling",
+     "en": "Metal Cooling Refrigerator"
+    },
     "model": "7REF4G495DIS1",
     "series": "GOLD",
     "price": 9199000,
     "img": "img/62.webp",
-    "url": "https://seventech.uz/market/product-page/xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g495dis1"
+    "slug": "xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g495dis1"
    },
    {
     "id": 411,
-    "title": "Pastki muzlatkichli to‘rt kamerali No Frost sovutgich, 515 L, qora",
+    "title": {
+     "uz": "Pastki muzlatkichli to‘rt kamerali No Frost sovutgich, 515 L, qora",
+     "ru": "Четырёхкамерный холодильник No Frost с нижней морозильной камерой, 515 л, чёрный",
+     "en": "Four-Compartment No Frost Refrigerator with Bottom Freezer, 515 L, Black"
+    },
     "model": "7REF4P515BGS2",
     "series": "PLATINUM",
     "price": 9004000,
     "img": "img/411.webp",
-    "url": "https://seventech.uz/market/product-page/cetyrexkamernyi-xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-515-l-cernyi-7ref4p515bgs2"
+    "slug": "cetyrexkamernyi-xolodilnik-no-frost-s-niznei-morozilnoi-kameroi-515-l-cernyi-7ref4p515bgs2"
    },
    {
     "id": 66,
-    "title": "Metal Cooling sovitish tizimiga ega o‘rnatilgan sovutgich",
+    "title": {
+     "uz": "Metal Cooling sovitish tizimiga ega o‘rnatilgan sovutgich",
+     "ru": "Встраиваемый холодильник с системой охлаждения Metal Cooling",
+     "en": "Built-In Refrigerator with Metal Cooling"
+    },
     "model": "7REF4G252BIS1",
     "series": "GOLD",
     "price": 8052000,
     "img": "img/66.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g252bis1"
+    "slug": "vstraivaemyi-xolodilnik-s-sistemoi-oxlazdeniia-metal-cooling-7ref4g252bis1"
    }
   ]
  },
  {
   "slug": "kondicionery",
-  "title": "Konditsionerlar",
+  "title": {
+   "uz": "Konditsionerlar",
+   "ru": "Кондиционеры",
+   "en": "Air Conditioners"
+  },
   "count": 42,
-  "url": "https://seventech.uz/market?category=kondicionery",
   "items": [
    {
     "id": 345,
-    "title": "Kolonna turidagi konditsioner, 300 m² gacha bo‘lgan xonalar uchun",
+    "title": {
+     "uz": "Kolonna turidagi konditsioner, 300 m² gacha bo‘lgan xonalar uchun",
+     "ru": "Колонный кондиционер для помещений до 300 м²",
+     "en": "Floor-standing air conditioner for spaces up to 300 m²"
+    },
     "model": "7AC4P100WS2",
     "series": "PLATINUM",
     "price": 42956000,
     "img": "img/345.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-dlia-pomeshhenii-do-300-m2-7ac4p100ws2"
+    "slug": "kolonnyi-kondicioner-dlia-pomeshhenii-do-300-m2-7ac4p100ws2"
    },
    {
     "id": 812,
-    "title": "Kolonna turidagi inverter konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+    "title": {
+     "uz": "Kolonna turidagi inverter konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+     "ru": "Колонный инверторный кондиционер для помещений до 180 м², серый",
+     "en": "Inverter floor-standing air conditioner for spaces up to 180 m²"
+    },
     "model": "7AC4P60GFS1",
     "series": "PLATINUM",
     "price": 23497000,
     "img": "img/812.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-dlia-pomeshhenii-do-180-m2-seryi-7ac4p60gfs1"
+    "slug": "kolonnyi-invertornyi-kondicioner-dlia-pomeshhenii-do-180-m2-seryi-7ac4p60gfs1"
    },
    {
     "id": 759,
-    "title": "Oq rangli kolonna turidagi inverter konditsioner, 180 m² gacha",
+    "title": {
+     "uz": "Oq rangli kolonna turidagi inverter konditsioner, 180 m² gacha",
+     "ru": "Белый колонный инверторный кондиционер, 180 м²",
+     "en": "White inverter floor-standing air conditioner, up to 180 m²"
+    },
     "model": "7AC4P60WFS1",
     "series": "PLATINUM",
     "price": 22826000,
     "img": "img/759.webp",
-    "url": "https://seventech.uz/market/product-page/belyi-kolonnyi-invertornyi-kondicioner-180-m2-7ac4p60wfs1"
+    "slug": "belyi-kolonnyi-invertornyi-kondicioner-180-m2-7ac4p60wfs1"
    },
    {
     "id": 758,
-    "title": "Polga o‘rnatiladigan inverter konditsioner, 144 m²",
+    "title": {
+     "uz": "Polga o‘rnatiladigan inverter konditsioner, 144 m²",
+     "ru": "Колонный инверторный кондиционер, 144 м²",
+     "en": "Floor-Standing Inverter Air Conditioner, 144 m²"
+    },
     "model": "7AC4P48WFS1",
     "series": "PLATINUM",
     "price": 20801000,
     "img": "img/758.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-144-m2-7ac4p48wfs1"
+    "slug": "kolonnyi-invertornyi-kondicioner-144-m2-7ac4p48wfs1"
    },
    {
     "id": 332,
-    "title": "Kolonnali invertorli konditsioner, 140 m² gacha",
+    "title": {
+     "uz": "Kolonnali invertorli konditsioner, 140 m² gacha",
+     "ru": "Колонный инверторный кондиционер, до 140 м²",
+     "en": "Floor-Standing Inverter Air Conditioner, Up to 140 m²"
+    },
     "model": "7AC4P48WS1",
     "series": "PLATINUM",
     "price": 20801000,
     "img": "img/332.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-do-140-m2-7ac4p48ws1"
+    "slug": "kolonnyi-invertornyi-kondicioner-do-140-m2-7ac4p48ws1"
    },
    {
     "id": 785,
-    "title": "Polga o‘rnatiladigan konditsioner, 180 m²",
+    "title": {
+     "uz": "Polga o‘rnatiladigan konditsioner, 180 m²",
+     "ru": "Колонный кондиционер, 180 м²",
+     "en": "Floor-Standing Air Conditioner, 180 m²"
+    },
     "model": "7AC4G60GFS1",
     "series": "GOLD",
     "price": 18788000,
     "img": "img/785.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-180-m2-7ac4g60gfs1"
+    "slug": "kolonnyi-kondicioner-180-m2-7ac4g60gfs1"
    },
    {
     "id": 760,
-    "title": "AC/DC kolonna turidagi konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+    "title": {
+     "uz": "AC/DC kolonna turidagi konditsioner, 180 m² gacha bo‘lgan xonalar uchun",
+     "ru": "Колонный кондиционер AC/DC для помещений до 180 м²",
+     "en": "AC/DC floor-standing air conditioner for spaces up to 180 m²"
+    },
     "model": "7AC4G60WFS1",
     "series": "GOLD",
     "price": 18129000,
     "img": "img/760.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-kondicioner-acdc-dlia-pomeshhenii-do-180-m2-7ac4g60wfs1"
+    "slug": "kolonnyi-kondicioner-acdc-dlia-pomeshhenii-do-180-m2-7ac4g60wfs1"
    },
    {
     "id": 123,
-    "title": "Ultra sokin ishlash rejimiga ega konditsioner",
+    "title": {
+     "uz": "Ultra sokin ishlash rejimiga ega konditsioner",
+     "ru": "Кондиционер с ультратихим режимом работы",
+     "en": "Air Conditioner with Ultra-Quiet Operation Mode"
+    },
     "model": "7AC4P24WSS1",
     "series": "PLATINUM",
     "price": 12981000,
     "img": "img/123.webp",
-    "url": "https://seventech.uz/market/product-page/kondicioner-s-ultratixim-rezimom-raboty-7ac4p24wss1"
+    "slug": "kondicioner-s-ultratixim-rezimom-raboty-7ac4p24wss1"
    },
    {
     "id": 235,
-    "title": "3D havo oqimi funksiyasiga ega konditsioner",
+    "title": {
+     "uz": "3D havo oqimi funksiyasiga ega konditsioner",
+     "ru": "Кондиционер с функцией 3D потока воздуха",
+     "en": "Air Conditioner with 3D Airflow Function"
+    },
     "model": "7AC4P24GRS1",
     "series": "PLATINUM",
     "price": 10882000,
     "img": "img/235.webp",
-    "url": "https://seventech.uz/market/product-page/kondicioner-s-funkciei-3d-potoka-vozduxa-7ac4p24grs1"
+    "slug": "kondicioner-s-funkciei-3d-potoka-vozduxa-7ac4p24grs1"
    },
    {
     "id": 786,
-    "title": "Wi-Fi funksiyali polga o‘rnatiladigan inverter konditsioner, 72 m²",
+    "title": {
+     "uz": "Wi-Fi funksiyali polga o‘rnatiladigan inverter konditsioner, 72 m²",
+     "ru": "Колонный инверторный кондиционер Platinum с Wi-Fi, 72 м²",
+     "en": "Platinum Floor-Standing Inverter Air Conditioner with Wi-Fi, 72 m²"
+    },
     "model": "7AC4P24GFS1",
     "series": "PLATINUM",
     "price": 10065000,
     "img": "img/786.webp",
-    "url": "https://seventech.uz/market/product-page/kolonnyi-invertornyi-kondicioner-platinum-s-wi-fi-72-m2-7ac4p24gfs1"
+    "slug": "kolonnyi-invertornyi-kondicioner-platinum-s-wi-fi-72-m2-7ac4p24gfs1"
    }
   ]
  },
  {
   "slug": "ctiralnye-masiny",
-  "title": "Kir yuvish mashinalari",
+  "title": {
+   "uz": "Kir yuvish mashinalari",
+   "ru": "Cтиральные машины",
+   "en": "Washing Machines"
+  },
   "count": 19,
-  "url": "https://seventech.uz/market?category=ctiralnye-masiny",
   "items": [
    {
     "id": 24,
-    "title": "Platinum 16 kg ikki barabanli kir yuvish va quritish mashinasi",
+    "title": {
+     "uz": "Platinum 16 kg ikki barabanli kir yuvish va quritish mashinasi",
+     "ru": "Двойная стиральная машина с сушкой, Platinum 16 кг",
+     "en": "Platinum 16 kg Dual Washing Machine with Dryer"
+    },
     "model": "7WM4P1216TWINS1",
     "series": "PLATINUM",
     "price": 14762000,
     "img": "img/24.webp",
-    "url": "https://seventech.uz/market/product-page/dvoinaia-stiralnaia-masina-s-suskoi-platinum-16-kg-7wm4p1216twins1"
+    "slug": "dvoinaia-stiralnaia-masina-s-suskoi-platinum-16-kg-7wm4p1216twins1"
    },
    {
     "id": 818,
-    "title": "Bug‘li parvarish funksiyasiga ega, 12 kg yuvish va 9 kg quritish sig‘imli kir yuvish-quritish mashinasi",
+    "title": {
+     "uz": "Bug‘li parvarish funksiyasiga ega, 12 kg yuvish va 9 kg quritish sig‘imli kir yuvish-quritish mashinasi",
+     "ru": "Стирально-сушильная машина с паровым уходом, 12 кг стирки и 9 кг сушки",
+     "en": "Washer-Dryer with Steam Care, 12 kg Wash Capacity and 9 kg Drying Capacity"
+    },
     "model": "7WM4P1412MWD1",
     "series": "PLATINUM",
     "price": 10065000,
     "img": "img/818.webp",
-    "url": "https://seventech.uz/market/product-page/stiralno-susilnaia-masina-s-parovym-uxodom-12-kg-stirki-i-9-kg-suski-7wm4p1412mwd1"
+    "slug": "stiralno-susilnaia-masina-s-parovym-uxodom-12-kg-stirki-i-9-kg-suski-7wm4p1412mwd1"
    },
    {
     "id": 25,
-    "title": "Sensorli boshqaruvga ega kir yuvish mashinasi",
+    "title": {
+     "uz": "Sensorli boshqaruvga ega kir yuvish mashinasi",
+     "ru": "Стиральная машина с сенсорным управлением",
+     "en": "Washing Machine with Touch Control"
+    },
     "model": "7WM4P1410GBPS1",
     "series": "PLATINUM",
     "price": 6710000,
     "img": "img/25.webp",
-    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-sensornym-upravleniem-7wm4p1410gbps1"
+    "slug": "stiralnaia-masina-s-sensornym-upravleniem-7wm4p1410gbps1"
    },
    {
     "id": 319,
-    "title": "Bug‘ bilan ishlov berish va 1400 ayl/min siqish tezligiga ega kir yuvish mashinasi, 10 kg",
+    "title": {
+     "uz": "Bug‘ bilan ishlov berish va 1400 ayl/min siqish tezligiga ega kir yuvish mashinasi, 10 kg",
+     "ru": "Стиральная машина с паровой обработкой и отжимом 1400 об/мин, 10 кг",
+     "en": "10 kg washing machine with steam treatment and 1400 rpm spin speed"
+    },
     "model": "7WM4P1410DNGS1",
     "series": "PLATINUM",
     "price": 6307000,
     "img": "img/319.webp",
-    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-parovoi-obrabotkoi-i-otzimom-1400-obmin-10-kg-7wm4p1410dngs1"
+    "slug": "stiralnaia-masina-s-parovoi-obrabotkoi-i-otzimom-1400-obmin-10-kg-7wm4p1410dngs1"
    },
    {
     "id": 32,
-    "title": "Smart kir yuvish mashinasi Platinum, 10 kg",
+    "title": {
+     "uz": "Smart kir yuvish mashinasi Platinum, 10 kg",
+     "ru": "Умная стиральная машина Platinum, 10 кг",
+     "en": "Smart Washing Machine Platinum, 10 kg"
+    },
     "model": "7WM4P1410GSS2",
     "series": "PLATINUM",
     "price": 6051000,
     "img": "img/32.webp",
-    "url": "https://seventech.uz/market/product-page/umnaia-stiralnaia-masina-platinum-10-kg-7wm4p1410gss2"
+    "slug": "umnaia-stiralnaia-masina-platinum-10-kg-7wm4p1410gss2"
    },
    {
     "id": 30,
-    "title": "8 kg Gold kir yuvish mashinasi — inverter dvigatel vabug‘li yuvish",
+    "title": {
+     "uz": "8 kg Gold kir yuvish mashinasi — inverter dvigatel vabug‘li yuvish",
+     "ru": "Стиральная машина 8 кг Gold с инверторным двигателем и паровой стиркой",
+     "en": "8 kg Gold Washing Machine with Inverter Motor and Steam Wash"
+    },
     "model": "7WM4G1480WSS3",
     "series": "GOLD",
     "price": 4709000,
     "img": "img/30.webp",
-    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-8-kg-gold-s-invertornym-dvigatelem-i-parovoi-stirkoi-7wm4g1480wss3"
+    "slug": "stiralnaia-masina-8-kg-gold-s-invertornym-dvigatelem-i-parovoi-stirkoi-7wm4g1480wss3"
    },
    {
     "id": 439,
-    "title": "Kulrang, bug‘ funksiyali va A+++ energiya sinfiga ega kir yuvish mashinasi, 10 kg",
+    "title": {
+     "uz": "Kulrang, bug‘ funksiyali va A+++ energiya sinfiga ega kir yuvish mashinasi, 10 kg",
+     "ru": "Серая стиральная машина с паром и энергоклассом A+++, 10 кг",
+     "en": "Gray Washing Machine with Steam Function and A+++ Energy Rating, 10 kg"
+    },
     "model": "7WM4G1210GSDS1",
     "series": "GOLD",
     "price": 4368000,
     "img": "img/439.webp",
-    "url": "https://seventech.uz/market/product-page/seraia-stiralnaia-masina-s-parom-i-energoklassom-a-10-kg-7wm4g1210gsds1"
+    "slug": "seraia-stiralnaia-masina-s-parom-i-energoklassom-a-10-kg-7wm4g1210gsds1"
    },
    {
     "id": 441,
-    "title": "Kulrang, bug‘ funksiyali va taymerli kir yuvish mashinasi, 10 kg",
+    "title": {
+     "uz": "Kulrang, bug‘ funksiyali va taymerli kir yuvish mashinasi, 10 kg",
+     "ru": "Серая стиральная машина с паром и таймером, 10 кг",
+     "en": "Gray Washing Machine with Steam Function and Timer, 10 kg"
+    },
     "model": "7WM4G1210GDDS1",
     "series": "GOLD",
     "price": 4160000,
     "img": "img/441.webp",
-    "url": "https://seventech.uz/market/product-page/seraia-stiralnaia-masina-s-parom-i-taimerom-10-kg-7wm4g1210gdds1"
+    "slug": "seraia-stiralnaia-masina-s-parom-i-taimerom-10-kg-7wm4g1210gdds1"
    },
    {
     "id": 418,
-    "title": "Inverterni dvigatelli kir yuvish mashinasi",
+    "title": {
+     "uz": "Inverterni dvigatelli kir yuvish mashinasi",
+     "ru": "Стиральная машина с инверторным мотором",
+     "en": "Washing Machine with Inverter Motor"
+    },
     "model": "7WM4G1280GDS1",
     "series": "GOLD",
     "price": 3562000,
     "img": "img/418.webp",
-    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-invertornym-motorom-7wm4g1280gds1"
+    "slug": "stiralnaia-masina-s-invertornym-motorom-7wm4g1280gds1"
    },
    {
     "id": 501,
-    "title": "Bug‘ funksiyali va «Mening dasturim» funksiyasiga ega kir yuvish mashinasi, 8 kg",
+    "title": {
+     "uz": "Bug‘ funksiyali va «Mening dasturim» funksiyasiga ega kir yuvish mashinasi, 8 kg",
+     "ru": "Стиральная машина с паром и функцией «Моя программа», 8 кг",
+     "en": "Washing Machine with Steam Function and “My Program” Feature, 8 kg"
+    },
     "model": "7WM4S1280GSS2",
     "series": "SILVER",
     "price": 3221000,
     "img": "img/501.webp",
-    "url": "https://seventech.uz/market/product-page/stiralnaia-masina-s-parom-i-funkciei-moia-programma-8-kg-7wm4s1280gss2"
+    "slug": "stiralnaia-masina-s-parom-i-funkciei-moia-programma-8-kg-7wm4s1280gss2"
    }
   ]
  },
  {
   "slug": "kofemasiny",
-  "title": "Kofemashinalar",
+  "title": {
+   "uz": "Kofemashinalar",
+   "ru": "Кофемашины",
+   "en": "Coffee Machines"
+  },
   "count": 4,
-  "url": "https://seventech.uz/market?category=kofemasiny",
   "items": [
    {
     "id": 509,
-    "title": "Kapuchinatorli Milano kofemashinasi",
+    "title": {
+     "uz": "Kapuchinatorli Milano kofemashinasi",
+     "ru": "Кофемашина Milano с капучинатором",
+     "en": "Milano Coffee Machine with Cappuccinatore"
+    },
     "model": "7CM4PMILANOS1",
     "series": "PLATINUM",
     "price": 4978000,
     "img": "img/509.webp",
-    "url": "https://seventech.uz/market/product-page/kofemasina-milano-s-kapucinatorom-7cm4pmilanos1"
+    "slug": "kofemasina-milano-s-kapucinatorom-7cm4pmilanos1"
    },
    {
     "id": 528,
-    "title": "Verona Full Auto kofemashinasi",
+    "title": {
+     "uz": "Verona Full Auto kofemashinasi",
+     "ru": "Кофемашина Verona Full Auto",
+     "en": "Verona Full Auto Coffee Machine"
+    },
     "model": "7CM4GVERONAS1",
     "series": "GOLD",
     "price": 4575000,
     "img": "img/528.webp",
-    "url": "https://seventech.uz/market/product-page/kofemasina-verona-full-auto-7cm4gveronas1"
+    "slug": "kofemasina-verona-full-auto-7cm4gveronas1"
    },
    {
     "id": 186,
-    "title": "Sensorli boshqaruvga ega qahva mashinasi",
+    "title": {
+     "uz": "Sensorli boshqaruvga ega qahva mashinasi",
+     "ru": "Кофемашина с сенсорным управлением",
+     "en": "Coffee Machine with Touch Control"
+    },
     "model": "7CM4P1577BS1",
     "series": "PLATINUM",
     "price": 4294000,
     "img": "img/186.webp",
-    "url": "https://seventech.uz/market/product-page/kofemasina-s-sensornym-upravleniem-7cm4p1577bs1"
+    "slug": "kofemasina-s-sensornym-upravleniem-7cm4p1577bs1"
    },
    {
     "id": 527,
-    "title": "Barista Semi-Auto kofemashinasi",
+    "title": {
+     "uz": "Barista Semi-Auto kofemashinasi",
+     "ru": "Кофемашина Barista Semi-Auto",
+     "en": "Barista Semi-Auto Coffee Machine"
+    },
     "model": "7CM4PBARISTAS1",
     "series": "PLATINUM",
     "price": 4026000,
     "img": "img/527.webp",
-    "url": "https://seventech.uz/market/product-page/kofemasina-barista-semi-auto-7cm4pbaristas1"
+    "slug": "kofemasina-barista-semi-auto-7cm4pbaristas1"
    }
   ]
  },
  {
   "slug": "pylesosy",
-  "title": "Changyutgichlar",
+  "title": {
+   "uz": "Changyutgichlar",
+   "ru": "Пылесосы",
+   "en": "Vacuum Cleaners"
+  },
   "count": 7,
-  "url": "https://seventech.uz/market?category=pylesosy",
   "items": [
    {
     "id": 312,
-    "title": "Quruq va nam tozalash uchun changyutgich",
+    "title": {
+     "uz": "Quruq va nam tozalash uchun changyutgich",
+     "ru": "Пылесос для сухой и влажной уборки",
+     "en": "Vacuum Cleaner for Dry and Wet Cleaning"
+    },
     "model": "7VC4P4020GS1",
     "series": "PLATINUM",
     "price": 3355000,
     "img": "img/312.webp",
-    "url": "https://seventech.uz/market/product-page/pylesos-dlia-suxoi-i-vlaznoi-uborki-7vc4p4020gs1"
+    "slug": "pylesos-dlia-suxoi-i-vlaznoi-uborki-7vc4p4020gs1"
    },
    {
     "id": 166,
-    "title": "Avto-tozalovchi stansiyali simsiz changyutgich",
+    "title": {
+     "uz": "Avto-tozalovchi stansiyali simsiz changyutgich",
+     "ru": "Беспроводной пылесос со станцией самоочистки",
+     "en": "Cordless Vacuum Cleaner with Self-Cleaning Station"
+    },
     "model": "7VC4P18STS1",
     "series": "PLATINUM",
     "price": 2562000,
     "img": "img/166.webp",
-    "url": "https://seventech.uz/market/product-page/besprovodnoi-pylesos-so-stanciei-samoocistki-7vc4p18sts1"
+    "slug": "besprovodnoi-pylesos-so-stanciei-samoocistki-7vc4p18sts1"
    },
    {
     "id": 505,
-    "title": "Past shovqinli, kam energiya sarflovchi changyutgich",
+    "title": {
+     "uz": "Past shovqinli, kam energiya sarflovchi changyutgich",
+     "ru": "Тихий пылесос с низким энергопотреблением",
+     "en": "Quiet Vacuum Cleaner with Low Energy Consumption"
+    },
     "model": "7VC4PSILENTS1",
     "series": "PLATINUM",
     "price": 1281000,
     "img": "img/505.webp",
-    "url": "https://seventech.uz/market/product-page/tixii-pylesos-s-nizkim-energopotrebleniem-7vc4psilents1"
+    "slug": "tixii-pylesos-s-nizkim-energopotrebleniem-7vc4psilents1"
    },
    {
     "id": 167,
-    "title": "Siklon chiqish filtrli changyutgich",
+    "title": {
+     "uz": "Siklon chiqish filtrli changyutgich",
+     "ru": "Пылесос с циклонным фильтром",
+     "en": "Vacuum Cleaner with Cyclonic Output Filter"
+    },
     "model": "7VC4P18TRS1",
     "series": "PLATINUM",
     "price": 1281000,
     "img": "img/167.webp",
-    "url": "https://seventech.uz/market/product-page/pylesos-s-ciklonnym-filtrom-7vc4p18trs1"
+    "slug": "pylesos-s-ciklonnym-filtrom-7vc4p18trs1"
    },
    {
     "id": 503,
-    "title": "Past shovqin tizimli changyutgich",
+    "title": {
+     "uz": "Past shovqin tizimli changyutgich",
+     "ru": "Пылесос с системой снижения шума",
+     "en": "Vacuum Cleaner with Noise Reduction System"
+    },
     "model": "7VC4GSTORMS1",
     "series": "GOLD",
     "price": 1074000,
     "img": "img/503.webp",
-    "url": "https://seventech.uz/market/product-page/pylesos-s-sistemoi-snizeniia-suma-7vc4gstorms1"
+    "slug": "pylesos-s-sistemoi-snizeniia-suma-7vc4gstorms1"
    },
    {
     "id": 504,
-    "title": "Katta hajmli chang qopi va 2200 Vt motorli changyutgich",
+    "title": {
+     "uz": "Katta hajmli chang qopi va 2200 Vt motorli changyutgich",
+     "ru": "Пылесос с высоким объемом мешка и мотором 2200 Вт",
+     "en": "Vacuum Cleaner with a Large Dust Bag Capacity and a 2200 W Motor"
+    },
     "model": "7VC4GJETS1",
     "series": "GOLD",
     "price": 1037000,
     "img": "img/504.webp",
-    "url": "https://seventech.uz/market/product-page/pylesos-s-vysokim-obieemom-meska-i-motorom-2200-vt-7vc4gjets1"
+    "slug": "pylesos-s-vysokim-obieemom-meska-i-motorom-2200-vt-7vc4gjets1"
    },
    {
     "id": 521,
-    "title": "Kuchli tortish quvvatiga ega HEPA filtrli changyutgich",
+    "title": {
+     "uz": "Kuchli tortish quvvatiga ega HEPA filtrli changyutgich",
+     "ru": "Пылесос с мощным всасыванием и HEPA-фильтром",
+     "en": "Vacuum Cleaner with Powerful Suction and a HEPA Filter"
+    },
     "model": "7VC4GBUGGYS1",
     "series": "GOLD",
     "price": 1013000,
     "img": "img/521.webp",
-    "url": "https://seventech.uz/market/product-page/pylesos-s-moshhnym-vsasyvaniem-i-hepa-filtrom-7vc4gbuggys1"
+    "slug": "pylesos-s-moshhnym-vsasyvaniem-i-hepa-filtrom-7vc4gbuggys1"
    }
   ]
  },
  {
   "slug": "ocistiteli-vozduxa",
-  "title": "Havo tozalagichlar",
+  "title": {
+   "uz": "Havo tozalagichlar",
+   "ru": "Очистители воздуха",
+   "en": "Air Purifiers"
+  },
   "count": 4,
-  "url": "https://seventech.uz/market?category=ocistiteli-vozduxa",
   "items": [
    {
     "id": 800,
-    "title": "Namlagichli Dual Care havo tozalagichi, kulrang",
+    "title": {
+     "uz": "Namlagichli Dual Care havo tozalagichi, kulrang",
+     "ru": "Очиститель воздуха Dual Care с увлажнителем, серый",
+     "en": "Dual Care Air Purifier with Humidifier, Gray"
+    },
     "model": "7AP4PDUALCARES2",
     "series": "PLATINUM",
     "price": 2696000,
     "img": "img/800.webp",
-    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-dual-care-s-uvlaznitelem-seryi-7ap4pdualcares2"
+    "slug": "ocistitel-vozduxa-dual-care-s-uvlaznitelem-seryi-7ap4pdualcares2"
    },
    {
     "id": 533,
-    "title": "VION havo tozalagichi",
+    "title": {
+     "uz": "VION havo tozalagichi",
+     "ru": "Очиститель воздуха VION",
+     "en": "VION Air Purifier"
+    },
     "model": "7AP4PVIONS1",
     "series": "PLATINUM",
     "price": 2696000,
     "img": "img/533.webp",
-    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-vion-7ap4pvions1"
+    "slug": "ocistitel-vozduxa-vion-7ap4pvions1"
    },
    {
     "id": 511,
-    "title": "Dual Care namlagich bilan havo tozalagich",
+    "title": {
+     "uz": "Dual Care namlagich bilan havo tozalagich",
+     "ru": "Очиститель воздуха Dual Care с увлажнителем",
+     "en": "Dual Care Air Purifier with Humidifier"
+    },
     "model": "7AP4PDUALCARES1",
     "series": "PLATINUM",
     "price": 2428000,
     "img": "img/511.webp",
-    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-dual-care-s-uvlaznitelem-7ap4pdualcares1"
+    "slug": "ocistitel-vozduxa-dual-care-s-uvlaznitelem-7ap4pdualcares1"
    },
    {
     "id": 594,
-    "title": "Sun‘iy intellektga ega havo tozalagich",
+    "title": {
+     "uz": "Sun‘iy intellektga ega havo tozalagich",
+     "ru": "Очиститель воздуха с искусственным интеллектом",
+     "en": "Air Purifier with Artificial Intelligence"
+    },
     "model": "7AP4GBRIOAIRS1",
     "series": "GOLD",
     "price": 1745000,
     "img": "img/594.webp",
-    "url": "https://seventech.uz/market/product-page/ocistitel-vozduxa-s-iskusstvennym-intellektom-7ap4gbrioairs1"
+    "slug": "ocistitel-vozduxa-s-iskusstvennym-intellektom-7ap4gbrioairs1"
    }
   ]
  },
  {
   "slug": "duxovye-skafy",
-  "title": "Pishirish javoni",
+  "title": {
+   "uz": "Pishirish javoni",
+   "ru": "Духовые шкафы",
+   "en": "Ovens"
+  },
   "count": 27,
-  "url": "https://seventech.uz/market?category=duxovye-skafy",
   "items": [
    {
     "id": 793,
-    "title": "TFT-displeyli, ikki kamerali o‘rnatiladigan elektr pech",
+    "title": {
+     "uz": "TFT-displeyli, ikki kamerali o‘rnatiladigan elektr pech",
+     "ru": "Встраиваемая электрическая духовка на две камеры с TFT-экраном",
+     "en": "Built-In Double-Cavity Electric Oven with TFT Display"
+    },
     "model": "ROYALCHEFONYX",
     "series": null,
     "price": 24839000,
     "img": "img/793.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-elektriceskaia-duxovka-na-dve-kamery-s-tft-ekranom-royalchefonyx"
+    "slug": "vstraivaemaia-elektriceskaia-duxovka-na-dve-kamery-s-tft-ekranom-royalchefonyx"
    },
    {
     "id": 794,
-    "title": "Ikki kamerali o‘rnatiladigan elektr pech",
+    "title": {
+     "uz": "Ikki kamerali o‘rnatiladigan elektr pech",
+     "ru": "Встраиваемый электрический духовой шкаф с двумя камерами",
+     "en": "Built-In Double-Cavity Electric Oven"
+    },
     "model": "ROYALCHEFLUXE",
     "series": null,
     "price": 22826000,
     "img": "img/794.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-elektriceskii-duxovoi-skaf-s-dvumia-kamerami-royalchefluxe"
+    "slug": "vstraivaemyi-elektriceskii-duxovoi-skaf-s-dvumia-kamerami-royalchefluxe"
    },
    {
     "id": 489,
-    "title": "Konveksiya va grilga ega o‘rnatiladigan pech",
+    "title": {
+     "uz": "Konveksiya va grilga ega o‘rnatiladigan pech",
+     "ru": "Встраиваемый духовой шкаф с конвекцией и грилем",
+     "en": "Built-In Oven with Convection and Grill"
+    },
     "model": "7BO4P7517BTFS1",
     "series": "PLATINUM",
     "price": 5441000,
     "img": "img/489.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-konvekciei-i-grilem-7bo4p7517btfs1"
+    "slug": "vstraivaemyi-duxovoi-skaf-s-konvekciei-i-grilem-7bo4p7517btfs1"
    },
    {
     "id": 11,
-    "title": "16 ishlash rejimiga ega o‘rnatiladigan duxovka",
+    "title": {
+     "uz": "16 ishlash rejimiga ega o‘rnatiladigan duxovka",
+     "ru": "Встраиваемый духовой шкаф с 16 режимами работы",
+     "en": "Built-In Oven with 16 Operating Modes"
+    },
     "model": "7BO4P7516BGS3",
     "series": "PLATINUM",
     "price": 4868000,
     "img": "img/11.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-16-rezimami-raboty-7bo4p7516bgs3"
+    "slug": "vstraivaemyi-duxovoi-skaf-s-16-rezimami-raboty-7bo4p7516bgs3"
    },
    {
     "id": 488,
-    "title": "Ko‘p rejimli pishirish uchun o‘rnatiladigan pech",
+    "title": {
+     "uz": "Ko‘p rejimli pishirish uchun o‘rnatiladigan pech",
+     "ru": "Встраиваемый духовой шкаф для многорежимного приготовления",
+     "en": "Built-In Oven for Multi-Mode Cooking"
+    },
     "model": "7BO4P7517BSGS1",
     "series": "PLATINUM",
     "price": 4843000,
     "img": "img/488.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-dlia-mnogorezimnogo-prigotovleniia-7bo4p7517bsgs1"
+    "slug": "vstraivaemyi-duxovoi-skaf-dlia-mnogorezimnogo-prigotovleniia-7bo4p7517bsgs1"
    },
    {
     "id": 259,
-    "title": "Konveksiya va 15 dasturli o‘rnatiladigan elektr duxovka",
+    "title": {
+     "uz": "Konveksiya va 15 dasturli o‘rnatiladigan elektr duxovka",
+     "ru": "Встраиваемый электрический духовой шкаф с конвекцией и 15 программами",
+     "en": "Built-In Electric Oven with Convection and 15 Programs"
+    },
     "model": "7BO4P7415BTFS1",
     "series": "PLATINUM",
     "price": 4368000,
     "img": "img/259.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-elektriceskii-duxovoi-skaf-s-konvekciei-i-15-programmami-7bo4p7415btfs1"
+    "slug": "vstraivaemyi-elektriceskii-duxovoi-skaf-s-konvekciei-i-15-programmami-7bo4p7415btfs1"
    },
    {
     "id": 730,
-    "title": "72 l hajmli, konveksiyali o‘rnatiladigan duxovka",
+    "title": {
+     "uz": "72 l hajmli, konveksiyali o‘rnatiladigan duxovka",
+     "ru": "Встраиваемый духовой шкаф на 72 л с конвекцией",
+     "en": "72 L Built-In Oven with Convection"
+    },
     "model": "7BO4P7214BS1",
     "series": "PLATINUM",
     "price": 4160000,
     "img": "img/730.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-na-72-l-s-konvekciei-7bo4p7214bs1"
+    "slug": "vstraivaemyi-duxovoi-skaf-na-72-l-s-konvekciei-7bo4p7214bs1"
    },
    {
     "id": 9,
-    "title": "Sensorli boshqaruvga ega o‘rnatiladigan duxovka",
+    "title": {
+     "uz": "Sensorli boshqaruvga ega o‘rnatiladigan duxovka",
+     "ru": "Встраиваемый духовой шкаф с сенсорным управлением",
+     "en": "Built-In Oven with Touch Controls"
+    },
     "model": "7BO4G7810WGS1",
     "series": "GOLD",
     "price": 4026000,
     "img": "img/9.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-sensornym-upravleniem-7bo4g7810wgs1"
+    "slug": "vstraivaemyi-duxovoi-skaf-s-sensornym-upravleniem-7bo4g7810wgs1"
    },
    {
     "id": 10,
-    "title": "Sovitish va ventilyatsiya tizimiga ega o‘rnatiladigan duxovka",
+    "title": {
+     "uz": "Sovitish va ventilyatsiya tizimiga ega o‘rnatiladigan duxovka",
+     "ru": "Встраиваемый духовой шкаф с системой охлаждения и вентиляции",
+     "en": "Built-In Oven with Cooling and Ventilation System"
+    },
     "model": "7BO4G7810BGS2",
     "series": "GOLD",
     "price": 3904000,
     "img": "img/10.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-sistemoi-oxlazdeniia-i-ventiliacii-7bo4g7810bgs2"
+    "slug": "vstraivaemyi-duxovoi-skaf-s-sistemoi-oxlazdeniia-i-ventiliacii-7bo4g7810bgs2"
    },
    {
     "id": 752,
-    "title": "13 dasturli va 300 °C gacha qiziydigan o‘rnatiladigan duxovka",
+    "title": {
+     "uz": "13 dasturli va 300 °C gacha qiziydigan o‘rnatiladigan duxovka",
+     "ru": "Встраиваемый духовой шкаф с 13 программами и нагревом до 300 °C",
+     "en": "Built-In Oven with 13 Programs and Heating Up to 300 °C"
+    },
     "model": "7BO4P7411MBKS1",
     "series": "PLATINUM",
     "price": 3831000,
     "img": "img/752.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemyi-duxovoi-skaf-s-13-programmami-i-nagrevom-do-300-c-7bo4p7411mbks1"
+    "slug": "vstraivaemyi-duxovoi-skaf-s-13-programmami-i-nagrevom-do-300-c-7bo4p7411mbks1"
    }
   ]
  },
  {
   "slug": "varocnye-paneli",
-  "title": "Pishirish panellari",
+  "title": {
+   "uz": "Pishirish panellari",
+   "ru": "Варочные панели",
+   "en": "Cooktops"
+  },
   "count": 53,
-  "url": "https://seventech.uz/market?category=varocnye-paneli",
   "items": [
    {
     "id": 798,
-    "title": "6 ta Defendi gorelkali gaz plitasi",
+    "title": {
+     "uz": "6 ta Defendi gorelkali gaz plitasi",
+     "ru": "Газовая варочная панель на 6 конфорок Defendi",
+     "en": "6-Burner Defendi Gas Cooktop"
+    },
     "model": "ROYALPROFIRE9",
     "series": null,
     "price": 14762000,
     "img": "img/798.webp",
-    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-na-6-konforok-defendi-royalprofire9"
+    "slug": "gazovaia-varocnaia-panel-na-6-konforok-defendi-royalprofire9"
    },
    {
     "id": 799,
-    "title": "4 ta Defendi gorelkali gaz plitasi",
+    "title": {
+     "uz": "4 ta Defendi gorelkali gaz plitasi",
+     "ru": "Газовая варочная панель на 4 конфорки Defendi",
+     "en": "4-Burner Defendi Gas Cooktop"
+    },
     "model": "ROYALPRIMEFIRE7",
     "series": null,
     "price": 13420000,
     "img": "img/799.webp",
-    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-na-4-konforki-defendi-royalprimefire7"
+    "slug": "gazovaia-varocnaia-panel-na-4-konforki-defendi-royalprimefire7"
    },
    {
     "id": 159,
-    "title": "O‘rnatilgan tortgich va avtomatik yoqish funksiyasiga ega gazli pishirish paneli, 60 sm",
+    "title": {
+     "uz": "O‘rnatilgan tortgich va avtomatik yoqish funksiyasiga ega gazli pishirish paneli, 60 sm",
+     "ru": "Газовая варочная панель с встроенной вытяжкой и автоподжигом, 60 см",
+     "en": "Gas Cooktop with Built-In Extractor and Automatic Ignition, 60 cm"
+    },
     "model": "7GH4PCOMBS1",
     "series": "PLATINUM",
     "price": 6710000,
     "img": "img/159.webp",
-    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-s-vstroennoi-vytiazkoi-i-avtopodzigom-60-sm-7gh4pcombs1"
-   },
-   {
-    "id": 49,
-    "title": "Panjarasi magnit bilan mahkamlanadigan o‘rnatiladigan pishirish paneli, 90 sm",
-    "model": "7GH4P90BGTS1",
-    "series": "PLATINUM",
-    "price": 3453000,
-    "img": "img/49.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-magnitnoi-fiksaciei-resetki-90-sm-7gh4p90bgts1"
+    "slug": "gazovaia-varocnaia-panel-s-vstroennoi-vytiazkoi-i-avtopodzigom-60-sm-7gh4pcombs1"
    },
    {
     "id": 50,
-    "title": "Masofadan boshqariladigan o‘rnatiladigan pishirish paneli, 90 sm",
+    "title": {
+     "uz": "Masofadan boshqariladigan o‘rnatiladigan pishirish paneli, 90 sm",
+     "ru": "Встраиваемая варочная панель с дистанционным управлением, 90 см",
+     "en": "Built-In Cooktop with Remote Control, 90 cm"
+    },
     "model": "7GH4P90SSTS2",
     "series": "PLATINUM",
     "price": 3453000,
     "img": "img/50.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-distancionnym-upravleniem-90-sm-7gh4p90ssts2"
+    "slug": "vstraivaemaia-varocnaia-panel-s-distancionnym-upravleniem-90-sm-7gh4p90ssts2"
+   },
+   {
+    "id": 49,
+    "title": {
+     "uz": "Panjarasi magnit bilan mahkamlanadigan o‘rnatiladigan pishirish paneli, 90 sm",
+     "ru": "Встраиваемая варочная панель с магнитной фиксацией решётки, 90 см",
+     "en": "Built-In Cooktop with Magnetically Secured Grates, 90 cm"
+    },
+    "model": "7GH4P90BGTS1",
+    "series": "PLATINUM",
+    "price": 3453000,
+    "img": "img/49.webp",
+    "slug": "vstraivaemaia-varocnaia-panel-s-magnitnoi-fiksaciei-resetki-90-sm-7gh4p90bgts1"
    },
    {
     "id": 42,
-    "title": "FFD xavfsizlik tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+    "title": {
+     "uz": "FFD xavfsizlik tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+     "ru": "Встраиваемая варочная панель с системой безопасности FFD, 90 см",
+     "en": "Built-In Cooktop with FFD Safety System, 90 cm"
+    },
     "model": "7GH4G90SSS1",
     "series": "GOLD",
     "price": 3099000,
     "img": "img/42.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-sistemoi-bezopasnosti-ffd-90-sm-7gh4g90sss1"
+    "slug": "vstraivaemaia-varocnaia-panel-s-sistemoi-bezopasnosti-ffd-90-sm-7gh4g90sss1"
    },
    {
     "id": 43,
-    "title": "Avtomatik yoqish tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+    "title": {
+     "uz": "Avtomatik yoqish tizimiga ega o‘rnatiladigan pishirish paneli, 90 sm",
+     "ru": "Встраиваемая варочная панель с системой автоматического зажигания, 90 см",
+     "en": "Built-In Cooktop with Automatic Ignition System, 90 cm"
+    },
     "model": "7GH4G90BGS2",
     "series": "GOLD",
     "price": 2830000,
     "img": "img/43.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-sistemoi-avtomaticeskogo-zaziganiia-90-sm-7gh4g90bgs2"
+    "slug": "vstraivaemaia-varocnaia-panel-s-sistemoi-avtomaticeskogo-zaziganiia-90-sm-7gh4g90bgs2"
    },
    {
     "id": 474,
-    "title": "Toblangan shishadan tayyorlangan pishirish paneli",
+    "title": {
+     "uz": "Toblangan shishadan tayyorlangan pishirish paneli",
+     "ru": "Варочная панель из закаленного стекла",
+     "en": "Cooktop Made of Tempered Glass"
+    },
     "model": "7GH4P90MBGS1",
     "series": "PLATINUM",
     "price": 2696000,
     "img": "img/474.webp",
-    "url": "https://seventech.uz/market/product-page/varocnaia-panel-iz-zakalennogo-stekla-7gh4p90mbgs1"
+    "slug": "varocnaia-panel-iz-zakalennogo-stekla-7gh4p90mbgs1"
    },
    {
     "id": 149,
-    "title": "ARDA yondirgichli gazli pishirish paneli, 90 cm",
+    "title": {
+     "uz": "ARDA yondirgichli gazli pishirish paneli, 90 cm",
+     "ru": "Газовая варочная панель с конфорками ARDA, 90 см",
+     "en": "Gas Cooktop with ARDA Burners, 90 cm"
+    },
     "model": "7GH4P90BGCS2",
     "series": "PLATINUM",
     "price": 2696000,
     "img": "img/149.webp",
-    "url": "https://seventech.uz/market/product-page/gazovaia-varocnaia-panel-s-konforkami-arda-90-sm-7gh4p90bgcs2"
+    "slug": "gazovaia-varocnaia-panel-s-konforkami-arda-90-sm-7gh4p90bgcs2"
    },
    {
-    "id": 112,
-    "title": "Italiya ishlab chiqaruvchisidan o‘cho‘qlari o‘rnatiladigan pishirish paneli",
-    "model": "7GH4G90SPS1",
-    "series": "GOLD",
-    "price": 2489000,
-    "img": "img/112.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-varocnaia-panel-s-gorelkami-ot-italianskogo-proizvoditelia-7gh4g90sps1"
+    "id": 481,
+    "title": {
+     "uz": "Premium toifadagi keng qora shisha, latun gorelkali pishirish paneli, 90 sm",
+     "ru": "Широкая черная стеклянная варочная панель премиум класса с латунными горелками, 90 см",
+     "en": "Premium Wide Black Glass Cooktop with Brass Burners, 90 cm"
+    },
+    "model": "7GH4P90BGS1",
+    "series": "PLATINUM",
+    "price": 2562000,
+    "img": "img/481.webp",
+    "slug": "sirokaia-cernaia-stekliannaia-varocnaia-panel-premium-klassa-s-latunnymi-gorelkami-90-sm-7gh4p90bgs1"
    }
   ]
  },
  {
   "slug": "vytiazki",
-  "title": "Dudbo‘ronlar",
+  "title": {
+   "uz": "Dudbo‘ronlar",
+   "ru": "Вытяжки",
+   "en": "Range Hoods"
+  },
   "count": 39,
-  "url": "https://seventech.uz/market?category=vytiazki",
   "items": [
    {
     "id": 806,
-    "title": "TFT-displey va masofadan boshqaruv pultiga ega devoriy oshxona tortgichi",
+    "title": {
+     "uz": "TFT-displey va masofadan boshqaruv pultiga ega devoriy oshxona tortgichi",
+     "ru": "Настенная вытяжка с TFT-экраном и пультом",
+     "en": "Wall-Mounted Range Hood with TFT Display and Remote Control"
+    },
     "model": "ROYALNOIR7",
     "series": null,
     "price": 10748000,
     "img": "img/806.webp",
-    "url": "https://seventech.uz/market/product-page/nastennaia-vytiazka-s-tft-ekranom-i-pultom-royalnoir7"
+    "slug": "nastennaia-vytiazka-s-tft-ekranom-i-pultom-royalnoir7"
    },
    {
     "id": 807,
-    "title": "1000 m³/soat unumdorlikka ega devoriy oshxona tortgichi",
+    "title": {
+     "uz": "1000 m³/soat unumdorlikka ega devoriy oshxona tortgichi",
+     "ru": "Настенная вытяжка с производительностью 1000 м³/ч",
+     "en": "Wall-Mounted Range Hood with 1000 m³/h Airflow Capacity"
+    },
     "model": "ROYALCROWN9",
     "series": null,
     "price": 8735000,
     "img": "img/807.webp",
-    "url": "https://seventech.uz/market/product-page/nastennaia-vytiazka-s-proizvoditelnostiu-1000-m3c-royalcrown9"
+    "slug": "nastennaia-vytiazka-s-proizvoditelnostiu-1000-m3c-royalcrown9"
    },
    {
     "id": 134,
-    "title": "Keng orol turidagi oshxona uchun dudbo‘ron",
+    "title": {
+     "uz": "Keng orol turidagi oshxona uchun dudbo‘ron",
+     "ru": "Островная вытяжка для просторной кухни",
+     "en": "Island Range Hood for Spacious Kitchens"
+    },
     "model": "7RH4P90TISS1",
     "series": "PLATINUM",
     "price": 3526000,
     "img": "img/134.webp",
-    "url": "https://seventech.uz/market/product-page/ostrovnaia-vytiazka-dlia-prostornoi-kuxni-7rh4p90tiss1"
+    "slug": "ostrovnaia-vytiazka-dlia-prostornoi-kuxni-7rh4p90tiss1"
    },
    {
     "id": 146,
-    "title": "Ichki o‘rnatiladigan dudbo‘ron (reklirkulyatsiya tizimi bilan), 90 sm",
+    "title": {
+     "uz": "Ichki o‘rnatiladigan dudbo‘ron (reklirkulyatsiya tizimi bilan), 90 sm",
+     "ru": "Встраиваемая вытяжка с рециркуляцией, 90 см",
+     "en": "Built-In Range Hood with Recirculation System, 90 cm"
+    },
     "model": "7RH4P9050BD1",
     "series": "PLATINUM",
     "price": 2489000,
     "img": "img/146.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-vytiazka-s-recirkuliaciei-90-sm-7rh4p9050bd1"
+    "slug": "vstraivaemaia-vytiazka-s-recirkuliaciei-90-sm-7rh4p9050bd1"
    },
    {
     "id": 76,
-    "title": "Yoritgichli po‘lat dudbo‘ron, 90 sm",
+    "title": {
+     "uz": "Yoritgichli po‘lat dudbo‘ron, 90 sm",
+     "ru": "Стальная вытяжка с подсветкой, 90 см",
+     "en": "Steel Range Hood with Lighting, 90 cm"
+    },
     "model": "7RH4P9050SS1",
     "series": "PLATINUM",
     "price": 2050000,
     "img": "img/76.webp",
-    "url": "https://seventech.uz/market/product-page/stalnaia-vytiazka-s-podsvetkoi-90-sm-7rh4p9050ss1"
+    "slug": "stalnaia-vytiazka-s-podsvetkoi-90-sm-7rh4p9050ss1"
    },
    {
     "id": 77,
-    "title": "1000 m³/soat tezlikda ishlaydigan mo‘ri",
+    "title": {
+     "uz": "1000 m³/soat tezlikda ishlaydigan mo‘ri",
+     "ru": "Вытяжка, работающая со скоростью 1000 м³/ч",
+     "en": "Hood with 1000 m³/h Airflow Capacity"
+    },
     "model": "7RH4P9050BS1",
     "series": "PLATINUM",
     "price": 1879000,
     "img": "img/77.webp",
-    "url": "https://seventech.uz/market/product-page/vytiazka-rabotaiushhaia-so-skorostiu-1000-m3c-7rh4p9050bs1"
+    "slug": "vytiazka-rabotaiushhaia-so-skorostiu-1000-m3c-7rh4p9050bs1"
    },
    {
     "id": 128,
-    "title": "Oq shishadan dudbo‘ron",
+    "title": {
+     "uz": "Oq shishadan dudbo‘ron",
+     "ru": "Угловая вытяжка из белого стекла",
+     "en": "Corner Range Hood Made of White Glass"
+    },
     "model": "7RH4P90WGS1",
     "series": "PLATINUM",
     "price": 1818000,
     "img": "img/128.webp",
-    "url": "https://seventech.uz/market/product-page/uglovaia-vytiazka-iz-belogo-stekla-7rh4p90wgs1"
+    "slug": "uglovaia-vytiazka-iz-belogo-stekla-7rh4p90wgs1"
    },
    {
     "id": 74,
-    "title": "Zanglamaydigan po‘latdan tayyorlangan dudbo‘ron, 60 sm",
+    "title": {
+     "uz": "Zanglamaydigan po‘latdan tayyorlangan dudbo‘ron, 60 sm",
+     "ru": "Вытяжка из нержавеющей стали, 60 см",
+     "en": "Stainless Steel Range Hood, 60 cm"
+    },
     "model": "7RH4P6050SS1",
     "series": "PLATINUM",
     "price": 1793000,
     "img": "img/74.webp",
-    "url": "https://seventech.uz/market/product-page/vytiazka-iz-nerzaveiushhei-stali-60-sm-7rh4p6050ss1"
+    "slug": "vytiazka-iz-nerzaveiushhei-stali-60-sm-7rh4p6050ss1"
    },
    {
     "id": 129,
-    "title": "Uch qavatli yog‘ tutkichli havo tortkich, 90 sm",
+    "title": {
+     "uz": "Uch qavatli yog‘ tutkichli havo tortkich, 90 sm",
+     "ru": "Вытяжка с тремя слоями жироуловителей, 90 см",
+     "en": "Exhaust Hood with Three Layers of Grease Filters, 90 cm"
+    },
     "model": "7RH4P90BGS2",
     "series": "PLATINUM",
     "price": 1745000,
     "img": "img/129.webp",
-    "url": "https://seventech.uz/market/product-page/vytiazka-s-tremia-sloiami-ziroulovitelei-90-sm-7rh4p90bgs2"
+    "slug": "vytiazka-s-tremia-sloiami-ziroulovitelei-90-sm-7rh4p90bgs2"
    },
    {
     "id": 75,
-    "title": "Sensorli boshqaruvli qora dudbo‘ron, 60 sm",
+    "title": {
+     "uz": "Sensorli boshqaruvli qora dudbo‘ron, 60 sm",
+     "ru": "Черная вытяжка с сенсорным управлением,60 см",
+     "en": "Black Range Hood with Touch Control, 60 cm"
+    },
     "model": "7RH4P6050BS1",
     "series": "PLATINUM",
     "price": 1745000,
     "img": "img/75.webp",
-    "url": "https://seventech.uz/market/product-page/cernaia-vytiazka-s-sensornym-upravleniem60-sm-7rh4p6050bs1"
+    "slug": "cernaia-vytiazka-s-sensornym-upravleniem60-sm-7rh4p6050bs1"
    }
   ]
  },
  {
   "slug": "posudomoecnye-masiny",
-  "title": "Idish yuvish mashinalari",
+  "title": {
+   "uz": "Idish yuvish mashinalari",
+   "ru": "Посудомоечные машины",
+   "en": "Dishwashers"
+  },
   "count": 9,
-  "url": "https://seventech.uz/market?category=posudomoecnye-masiny",
   "items": [
    {
     "id": 510,
-    "title": "Rangli displey va past shovqin darajasiga ega to‘liq o‘lchamli idish yuvish mashinasi",
+    "title": {
+     "uz": "Rangli displey va past shovqin darajasiga ega to‘liq o‘lchamli idish yuvish mashinasi",
+     "ru": "Полноразмерная посудомоечная машина с цветным дисплеем и низким уровнем шума",
+     "en": "Full-Size Dishwasher with Color Display and Low Noise Level"
+    },
     "model": "7DW4P15BMCDS2",
     "series": "PLATINUM",
     "price": 5307000,
     "img": "img/510.webp",
-    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-cvetnym-displeem-i-nizkim-urovnem-suma-7dw4p15bmcds2"
+    "slug": "polnorazmernaia-posudomoecnaia-masina-s-cvetnym-displeem-i-nizkim-urovnem-suma-7dw4p15bmcds2"
    },
    {
     "id": 158,
-    "title": "Sensorli boshqaruvga ega, 15 dasturli to‘liq o‘lchamli idish yuvish mashinasi",
+    "title": {
+     "uz": "Sensorli boshqaruvga ega, 15 dasturli to‘liq o‘lchamli idish yuvish mashinasi",
+     "ru": "Полноразмерная посудомоечная машина с сенсорным управлением и 15 программами",
+     "en": "Full-Size Dishwasher with Touch Control and 15 Programs"
+    },
     "model": "7DW4P15BMCDS1",
     "series": "PLATINUM",
     "price": 5307000,
     "img": "img/158.webp",
-    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-sensornym-upravleniem-i-15-programmami-7dw4p15bmcds1"
+    "slug": "polnorazmernaia-posudomoecnaia-masina-s-sensornym-upravleniem-i-15-programmami-7dw4p15bmcds1"
    },
    {
     "id": 18,
-    "title": "Innovatsion quritish tizimiga ega idish yuvish mashinasi",
+    "title": {
+     "uz": "Innovatsion quritish tizimiga ega idish yuvish mashinasi",
+     "ru": "Посудомоечная машина с инновационной системой сушки",
+     "en": "Dishwasher with Innovative Drying System"
+    },
     "model": "7DW4P1506GS2",
     "series": "PLATINUM",
     "price": 5124000,
     "img": "img/18.webp",
-    "url": "https://seventech.uz/market/product-page/posudomoecnaia-masina-s-innovacionnoi-sistemoi-suski-7dw4p1506gs2"
+    "slug": "posudomoecnaia-masina-s-innovacionnoi-sistemoi-suski-7dw4p1506gs2"
    },
    {
     "id": 17,
-    "title": "Suv yumshatgichga ega idish yuvish mashinasi",
+    "title": {
+     "uz": "Suv yumshatgichga ega idish yuvish mashinasi",
+     "ru": "Посудомоечная машина со смягчителем воды",
+     "en": "Dishwasher with Water Softener"
+    },
     "model": "7DW4P1503GS1",
     "series": "PLATINUM",
     "price": 4868000,
     "img": "img/17.webp",
-    "url": "https://seventech.uz/market/product-page/posudomoecnaia-masina-so-smiagcitelem-vody-7dw4p1503gs1"
+    "slug": "posudomoecnaia-masina-so-smiagcitelem-vody-7dw4p1503gs1"
    },
    {
     "id": 425,
-    "title": "O‘rnatiladigan idish yuvish mashinasi",
+    "title": {
+     "uz": "O‘rnatiladigan idish yuvish mashinasi",
+     "ru": "Встраиваемая посудомоечная машина",
+     "en": "Built-In Dishwasher"
+    },
     "model": "7BW4P6015MS1",
     "series": "PLATINUM",
     "price": 4709000,
     "img": "img/425.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-posudomoecnaia-masina-7bw4p6015ms1"
+    "slug": "vstraivaemaia-posudomoecnaia-masina-7bw4p6015ms1"
    },
    {
     "id": 341,
-    "title": "Past shovqin darajasi va qoldiq issiqlik bilan quritish funksiyali to‘liq o‘lchamli idish yuvish mashinasi",
+    "title": {
+     "uz": "Past shovqin darajasi va qoldiq issiqlik bilan quritish funksiyali to‘liq o‘lchamli idish yuvish mashinasi",
+     "ru": "Полноразмерная посудомоечная машина с низким уровнем шума и сушкой остаточным теплом",
+     "en": "Full-Size Dishwasher with Low Noise Level and Residual Heat Drying"
+    },
     "model": "7DW4P1506BS2",
     "series": "PLATINUM",
     "price": 4709000,
     "img": "img/341.webp",
-    "url": "https://seventech.uz/market/product-page/polnorazmernaia-posudomoecnaia-masina-s-nizkim-urovnem-suma-i-suskoi-ostatocnym-teplom-7dw4p1506bs2"
+    "slug": "polnorazmernaia-posudomoecnaia-masina-s-nizkim-urovnem-suma-i-suskoi-ostatocnym-teplom-7dw4p1506bs2"
    },
    {
     "id": 506,
-    "title": "10 komplektli alohida turadigan idish yuvish mashinasi, 45 cm",
+    "title": {
+     "uz": "10 komplektli alohida turadigan idish yuvish mashinasi, 45 cm",
+     "ru": "Отдельностоящая посудомоечная машина на 10 комплектов, 45 см",
+     "en": "Freestanding Dishwasher for 10 Place Settings, 45 cm"
+    },
     "model": "7BW4P4510MS1",
     "series": "PLATINUM",
     "price": 4294000,
     "img": "img/506.webp",
-    "url": "https://seventech.uz/market/product-page/otdelnostoiashhaia-posudomoecnaia-masina-na-10-komplektov-45-sm-7bw4p4510ms1"
+    "slug": "otdelnostoiashhaia-posudomoecnaia-masina-na-10-komplektov-45-sm-7bw4p4510ms1"
    },
    {
     "id": 110,
-    "title": "O‘rnatiladigan to‘liq o‘lchamli idish yuvish mashinasi",
+    "title": {
+     "uz": "O‘rnatiladigan to‘liq o‘lchamli idish yuvish mashinasi",
+     "ru": "Встраиваемая полноразмерная посудомоечная машина",
+     "en": "Built-In Full-Size Dishwasher"
+    },
     "model": "7BW4G6012MS1",
     "series": "GOLD",
     "price": 4221000,
     "img": "img/110.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-polnorazmernaia-posudomoecnaia-masina-7bw4g6012ms1"
+    "slug": "vstraivaemaia-polnorazmernaia-posudomoecnaia-masina-7bw4g6012ms1"
    },
    {
     "id": 78,
-    "title": "Kengaytirilgan funksionalga ega o‘rnatiladigan idish yuvish mashinasi",
+    "title": {
+     "uz": "Kengaytirilgan funksionalga ega o‘rnatiladigan idish yuvish mashinasi",
+     "ru": "Встраиваемая посудомоечная машина с расширенным функционалом",
+     "en": "Integrated Dishwasher with Extended Functionality"
+    },
     "model": "7BW4G4509MS1",
     "series": "GOLD",
     "price": 4099000,
     "img": "img/78.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-posudomoecnaia-masina-s-rassirennym-funkcionalom-7bw4g4509ms1"
+    "slug": "vstraivaemaia-posudomoecnaia-masina-s-rassirennym-funkcionalom-7bw4g4509ms1"
    }
   ]
  },
  {
   "slug": "mikrovolnovye-peci",
-  "title": "Mikroto‘lqinli pechlar",
+  "title": {
+   "uz": "Mikroto‘lqinli pechlar",
+   "ru": "Микроволновые печи",
+   "en": "Microwave Ovens"
+  },
   "count": 19,
-  "url": "https://seventech.uz/market?category=mikrovolnovye-peci",
   "items": [
    {
     "id": 99,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 38 litr, 14 rejim",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 38 litr, 14 rejim",
+     "ru": "Встраиваемая микроволновая печь 38 л, 14 режимов",
+     "en": "Built-In Microwave Oven, 38 L, 14 Modes"
+    },
     "model": "7BM4P38WGS1",
     "series": "PLATINUM",
     "price": 4355000,
     "img": "img/99.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-38-l-14-rezimov-7bm4p38wgs1"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-38-l-14-rezimov-7bm4p38wgs1"
    },
    {
     "id": 7,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 38 L, qora korpus va pushti oltin aksent bilan",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 38 L, qora korpus va pushti oltin aksent bilan",
+     "ru": "Встраиваемая микроволновая печь 38 л, черная с акцентом розового золота",
+     "en": "Built-In Microwave Oven, 38 L, Black with Rose Gold Accents"
+    },
     "model": "7BM4P38BGS2",
     "series": "PLATINUM",
     "price": 3953000,
     "img": "img/7.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-38-l-cernaia-s-akcentom-rozovogo-zolota-7bm4p38bgs2"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-38-l-cernaia-s-akcentom-rozovogo-zolota-7bm4p38bgs2"
    },
    {
     "id": 729,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 34 l, gril va sensorli boshqaruv bilan",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 34 l, gril va sensorli boshqaruv bilan",
+     "ru": "Встраиваемая микроволновая печь, 34 л, с грилем и сенсорным управлением",
+     "en": "Built-In Microwave Oven, 34 L, with Grill and Touch Controls"
+    },
     "model": "7BM4P34BS2",
     "series": "PLATINUM",
     "price": 2965000,
     "img": "img/729.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-34-l-s-grilem-i-sensornym-upravleniem-7bm4p34bs2"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-34-l-s-grilem-i-sensornym-upravleniem-7bm4p34bs2"
    },
    {
     "id": 255,
-    "title": "O‘rnatiladigan, grilli va pastga ochiladigan eshikli mikroto‘lqinli pech",
+    "title": {
+     "uz": "O‘rnatiladigan, grilli va pastga ochiladigan eshikli mikroto‘lqinli pech",
+     "ru": "Встраиваемая микроволновая печь с грилем и откидной дверцей",
+     "en": "Built-In Microwave Oven with Grill and Drop-Down Door"
+    },
     "model": "7BM4P34BS1",
     "series": "PLATINUM",
     "price": 2623000,
     "img": "img/255.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-otkidnoi-dvercei-7bm4p34bs1"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-otkidnoi-dvercei-7bm4p34bs1"
    },
    {
     "id": 733,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 28 l, gril va displey bilan",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 28 l, gril va displey bilan",
+     "ru": "Встраиваемая микроволновая печь 28 л с грилем и дисплеем",
+     "en": "Built-In Microwave Oven, 28 L, with Grill and Display"
+    },
     "model": "7BM4G28BS1",
     "series": "GOLD",
     "price": 2562000,
     "img": "img/733.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-28-l-s-grilem-i-displeem-7bm4g28bs1"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-28-l-s-grilem-i-displeem-7bm4g28bs1"
    },
    {
     "id": 254,
-    "title": "Grilli va displeyli qora o‘rnatiladigan mikroto‘lqinli pech",
+    "title": {
+     "uz": "Grilli va displeyli qora o‘rnatiladigan mikroto‘lqinli pech",
+     "ru": "Черная встраиваемая микроволновая печь с грилем и дисплеем",
+     "en": "Black Built-In Microwave Oven with Grill and Display"
+    },
     "model": "7BM4G25BS3",
     "series": "GOLD",
     "price": 2244000,
     "img": "img/254.webp",
-    "url": "https://seventech.uz/market/product-page/cernaia-vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-displeem-7bm4g25bs3"
+    "slug": "cernaia-vstraivaemaia-mikrovolnovaia-pec-s-grilem-i-displeem-7bm4g25bs3"
    },
    {
     "id": 82,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 25 litr, gril funksiyasi bilan",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 25 litr, gril funksiyasi bilan",
+     "ru": "Встраиваемая микроволновая печь 25 л с функцией гриль",
+     "en": "Built-In Microwave Oven, 25 L, with Grill Function"
+    },
     "model": "7BM4G25BMS1",
     "series": "GOLD",
     "price": 1928000,
     "img": "img/82.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-25-l-s-funkciei-gril-7bm4g25bms1"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-25-l-s-funkciei-gril-7bm4g25bms1"
    },
    {
     "id": 249,
-    "title": "O‘rnatiladigan mikroto‘lqinli pech, 20 l, gril va displey bilan",
+    "title": {
+     "uz": "O‘rnatiladigan mikroto‘lqinli pech, 20 l, gril va displey bilan",
+     "ru": "Встраиваемая микроволновая печь 20 л с грилем и дисплеем",
+     "en": "Built-In Microwave Oven, 20 L, with Grill and Display"
+    },
     "model": "7BM4S20SS1",
     "series": "SILVER",
     "price": 1684000,
     "img": "img/249.webp",
-    "url": "https://seventech.uz/market/product-page/vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-i-displeem-7bm4s20ss1"
+    "slug": "vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-i-displeem-7bm4s20ss1"
    },
    {
     "id": 248,
-    "title": "Qora, grilli va 20 litr hajmli o‘rnatiladigan mikroto‘lqinli pech",
+    "title": {
+     "uz": "Qora, grilli va 20 litr hajmli o‘rnatiladigan mikroto‘lqinli pech",
+     "ru": "Черная встраиваемая микроволновая печь 20 л с грилем",
+     "en": "Black 20 L Built-In Microwave Oven with Grill"
+    },
     "model": "7BM4S20BS1",
     "series": "SILVER",
     "price": 1656000,
     "img": "img/248.webp",
-    "url": "https://seventech.uz/market/product-page/cernaia-vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-7bm4s20bs1"
+    "slug": "cernaia-vstraivaemaia-mikrovolnovaia-pec-20-l-s-grilem-7bm4s20bs1"
    },
    {
     "id": 84,
-    "title": "Mikroto‘lqinli pech, 23 litr, gril va 8 ta rejim bilan",
+    "title": {
+     "uz": "Mikroto‘lqinli pech, 23 litr, gril va 8 ta rejim bilan",
+     "ru": "Микроволновая печь 23 л, с грилем и 8 режимами",
+     "en": "Microwave Oven, 23 L, with Grill and 8 Modes"
+    },
     "model": "7MWO4P23MTS1",
     "series": "PLATINUM",
     "price": 1488000,
     "img": "img/84.webp",
-    "url": "https://seventech.uz/market/product-page/mikrovolnovaia-pec-23-l-s-grilem-i-8-rezimami-7mwo4p23mts1"
+    "slug": "mikrovolnovaia-pec-23-l-s-grilem-i-8-rezimami-7mwo4p23mts1"
    }
   ]
  },
  {
   "slug": "aerogrili",
-  "title": "Aerogrillar",
+  "title": {
+   "uz": "Aerogrillar",
+   "ru": "Аэрогрили",
+   "en": "Air Fryers"
+  },
   "count": 3,
-  "url": "https://seventech.uz/market?category=aerogrili",
   "items": [
    {
     "id": 829,
-    "title": "DualChef aerogrili, 11 l, 8 dastur, ikki tomonlama isitish, qora mat",
+    "title": {
+     "uz": "DualChef aerogrili, 11 l, 8 dastur, ikki tomonlama isitish, qora mat",
+     "ru": "Аэрогриль DualChef, 11 л, 8 программ, двойной нагрев, чёрный матовый",
+     "en": "DualChef Air Fryer, 11 L, 8 Programs, Dual Heating, Matte Black"
+    },
     "model": "7AF4GDUALCHEFS1",
     "series": "GOLD",
     "price": 1147000,
     "img": "img/829.webp",
-    "url": "https://seventech.uz/market/product-page/aerogril-dualchef-11-l-8-programm-dvoinoi-nagrev-cernyi-matovyi-7af4gdualchefs1"
+    "slug": "aerogril-dualchef-11-l-8-programm-dvoinoi-nagrev-cernyi-matovyi-7af4gdualchefs1"
    },
    {
     "id": 828,
-    "title": "SmartChef aerogrili, 8 l, 8 dastur, Wi-Fi bilan, qora mat",
+    "title": {
+     "uz": "SmartChef aerogrili, 8 l, 8 dastur, Wi-Fi bilan, qora mat",
+     "ru": "Аэрогриль SmartChef, 8 л, 8 программ, с Wi-Fi, чёрный матовый",
+     "en": "SmartChef Air Fryer, 8 L, 8 Programs, with Wi-Fi, Matte Black"
+    },
     "model": "7AF4PSMARTCHEFS1",
     "series": "PLATINUM",
     "price": 1147000,
     "img": "img/828.webp",
-    "url": "https://seventech.uz/market/product-page/aerogril-smartchef-8-l-8-programm-s-wi-fi-cernyi-matovyi-7af4psmartchefs1"
+    "slug": "aerogril-smartchef-8-l-8-programm-s-wi-fi-cernyi-matovyi-7af4psmartchefs1"
    },
    {
     "id": 827,
-    "title": "Vision aerogrili, 6,5 l, 12 dastur, qora mat",
+    "title": {
+     "uz": "Vision aerogrili, 6,5 l, 12 dastur, qora mat",
+     "ru": "Аэрогриль Vision, 6,5 л, 12 программ, чёрный матовый",
+     "en": "Vision Air Fryer, 6.5 L, 12 Programs, Matte Black"
+    },
     "model": "7AF4GVISIONS1",
     "series": "GOLD",
     "price": 939000,
     "img": "img/827.webp",
-    "url": "https://seventech.uz/market/product-page/aerogril-vision-65-l-12-programm-cernyi-matovyi-7af4gvisions1"
+    "slug": "aerogril-vision-65-l-12-programm-cernyi-matovyi-7af4gvisions1"
    }
   ]
  },
  {
   "slug": "blendery",
-  "title": "Blenderlar",
+  "title": {
+   "uz": "Blenderlar",
+   "ru": "Блендеры",
+   "en": "Blenders"
+  },
   "count": 4,
-  "url": "https://seventech.uz/market?category=blendery",
   "items": [
    {
     "id": 836,
-    "title": "Retro statsionar blenderi, 1400 Vt",
+    "title": {
+     "uz": "Retro statsionar blenderi, 1400 Vt",
+     "ru": "Стационарный блендер Retro, 1400 Вт",
+     "en": "Retro Countertop Blender, 1400 W"
+    },
     "model": "7TB4GRETROS1",
     "series": "GOLD",
     "price": 610000,
     "img": "img/836.webp",
-    "url": "https://seventech.uz/market/product-page/stacionarnyi-blender-retro-1400-vt-7tb4gretros1"
+    "slug": "stacionarnyi-blender-retro-1400-vt-7tb4gretros1"
    },
    {
     "id": 835,
-    "title": "Nova qo‘l blenderi, 1000 Vt",
+    "title": {
+     "uz": "Nova qo‘l blenderi, 1000 Vt",
+     "ru": "Погружной блендер Nova, 1000 Вт",
+     "en": "Nova Hand Blender, 1000 W"
+    },
     "model": "7HB4GNOVAS1",
     "series": "GOLD",
     "price": 537000,
     "img": "img/835.webp",
-    "url": "https://seventech.uz/market/product-page/pogruznoi-blender-nova-1000-vt-7hb4gnovas1"
+    "slug": "pogruznoi-blender-nova-1000-vt-7hb4gnovas1"
    },
    {
     "id": 834,
-    "title": "Nova statsionar blenderi, 1300 Vt",
+    "title": {
+     "uz": "Nova statsionar blenderi, 1300 Vt",
+     "ru": "Стационарный блендер Nova, 1300 Вт",
+     "en": "Nova Countertop Blender, 1300 W"
+    },
     "model": "7TB4GNOVAS1",
     "series": "GOLD",
     "price": 537000,
     "img": "img/834.webp",
-    "url": "https://seventech.uz/market/product-page/stacionarnyi-blender-nova-1300-vt-7tb4gnovas1"
+    "slug": "stacionarnyi-blender-nova-1300-vt-7tb4gnovas1"
    },
    {
     "id": 838,
-    "title": "Retro qo‘l blenderi, 1000 Vt",
+    "title": {
+     "uz": "Retro qo‘l blenderi, 1000 Vt",
+     "ru": "Погружной блендер Retro, 1000 Вт",
+     "en": "Retro Hand Blender, 1000 W"
+    },
     "model": "7HB4GRETROS1",
     "series": "GOLD",
     "price": 403000,
     "img": "img/838.webp",
-    "url": "https://seventech.uz/market/product-page/pogruznoi-blender-retro-1000-vt-7hb4gretros1"
+    "slug": "pogruznoi-blender-retro-1000-vt-7hb4gretros1"
    }
   ]
  },
  {
   "slug": "dispenser-dlia-vody",
-  "title": "Suv dispenseri",
+  "title": {
+   "uz": "Suv dispenseri",
+   "ru": "Диспенсер для воды",
+   "en": "Water Dispenser"
+  },
   "count": 11,
-  "url": "https://seventech.uz/market?category=dispenser-dlia-vody",
   "items": [
    {
     "id": 34,
-    "title": "Muz generatorga ega suv dispenseri",
+    "title": {
+     "uz": "Muz generatorga ega suv dispenseri",
+     "ru": "Диспенсер для воды с ледогенератором",
+     "en": "Water Dispenser with Ice Maker"
+    },
     "model": "7WD4P62ICEWS2",
     "series": "PLATINUM",
     "price": 2147000,
     "img": "img/34.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-ledogeneratorom-7wd4p62icews2"
+    "slug": "dispenser-dlia-vody-s-ledogeneratorom-7wd4p62icews2"
    },
    {
     "id": 469,
-    "title": "12 ta harorat rejimiga ega choy bari",
+    "title": {
+     "uz": "12 ta harorat rejimiga ega choy bari",
+     "ru": "Чайный бар с 12 режимами нагрева",
+     "en": "Tea Bar with 12 Temperature Settings"
+    },
     "model": "7TB4P2TLGS1",
     "series": "PLATINUM",
     "price": 1488000,
     "img": "img/469.webp",
-    "url": "https://seventech.uz/market/product-page/cainyi-bar-s-12-rezimami-nagreva-7tb4p2tlgs1"
+    "slug": "cainyi-bar-s-12-rezimami-nagreva-7tb4p2tlgs1"
    },
    {
     "id": 142,
-    "title": "Avtomatik isitish funksiyasiga ega choy bari.",
+    "title": {
+     "uz": "Avtomatik isitish funksiyasiga ega choy bari.",
+     "ru": "Чайный бар с автоматическим подогревом",
+     "en": "Tea Bar with Automatic Heating"
+    },
     "model": "7TB4P1TDGS1",
     "series": "PLATINUM",
     "price": 1488000,
     "img": "img/142.webp",
-    "url": "https://seventech.uz/market/product-page/cainyi-bar-s-avtomaticeskim-podogrevom-7tb4p1tdgs1"
+    "slug": "cainyi-bar-s-avtomaticeskim-podogrevom-7tb4p1tdgs1"
    },
    {
     "id": 143,
-    "title": "Choy bari 4 in 1, oq rangda",
+    "title": {
+     "uz": "Choy bari 4 in 1, oq rangda",
+     "ru": "Чайный бар 4 в 1, белый",
+     "en": "Tea Bar 4 in 1, White"
+    },
     "model": "7TB4P1TWS1",
     "series": "PLATINUM",
     "price": 1488000,
     "img": "img/143.webp",
-    "url": "https://seventech.uz/market/product-page/cainyi-bar-4-v-1-belyi-7tb4p1tws1"
+    "slug": "cainyi-bar-4-v-1-belyi-7tb4p1tws1"
    },
    {
     "id": 306,
-    "title": "Sensorli boshqaruvga ega suv dispenseri",
+    "title": {
+     "uz": "Sensorli boshqaruvga ega suv dispenseri",
+     "ru": "Диспенсер для воды с сенсорным управлением",
+     "en": "Water Dispenser with Touch Controls"
+    },
     "model": "7TB4P2TDGS1",
     "series": "PLATINUM",
     "price": 1476000,
     "img": "img/306.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-sensornym-upravleniem-7tb4p2tdgs1"
+    "slug": "dispenser-dlia-vody-s-sensornym-upravleniem-7tb4p2tdgs1"
    },
    {
     "id": 106,
-    "title": "Katta sovutish rezervuariga ega suv dispenseri",
+    "title": {
+     "uz": "Katta sovutish rezervuariga ega suv dispenseri",
+     "ru": "Диспенсер для воды с большим резервуаром для охлаждения",
+     "en": "Water Dispenser with Large Cooling Tank"
+    },
     "model": "7WD4G68WS3",
     "series": "GOLD",
     "price": 1476000,
     "img": "img/106.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-bolsim-rezervuarom-dlia-oxlazdeniia-7wd4g68ws3"
+    "slug": "dispenser-dlia-vody-s-bolsim-rezervuarom-dlia-oxlazdeniia-7wd4g68ws3"
    },
    {
     "id": 36,
-    "title": "Yuqori isitish quvvatiga ega suv dispenseri",
+    "title": {
+     "uz": "Yuqori isitish quvvatiga ega suv dispenseri",
+     "ru": "Диспенсер для воды с высокой мощностью нагрева",
+     "en": "Water Dispenser with High Heating Power"
+    },
     "model": "7WD4G68WS2",
     "series": "GOLD",
     "price": 1464000,
     "img": "img/36.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-vysokoi-moshhnostiu-nagreva-7wd4g68ws2"
+    "slug": "dispenser-dlia-vody-s-vysokoi-moshhnostiu-nagreva-7wd4g68ws2"
    },
    {
     "id": 145,
-    "title": "Bolalardan himoya funksiyasiga ega dispenser",
+    "title": {
+     "uz": "Bolalardan himoya funksiyasiga ega dispenser",
+     "ru": "Диспенсер с функцией защиты от детей",
+     "en": "Water Dispenser with Child Safety Lock"
+    },
     "model": "7WD4S105BCS1",
     "series": "SILVER",
     "price": 1244000,
     "img": "img/145.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-s-funkciei-zashhity-ot-detei-7wd4s105bcs1"
+    "slug": "dispenser-s-funkciei-zashhity-ot-detei-7wd4s105bcs1"
    },
    {
     "id": 502,
-    "title": "Bolalardan himoya funksiyali polga qo‘yiladigan suv dispenseri",
+    "title": {
+     "uz": "Bolalardan himoya funksiyali polga qo‘yiladigan suv dispenseri",
+     "ru": "Диспенсер для воды с защитой от детей",
+     "en": "Floor-Standing Water Dispenser with Child Safety Lock"
+    },
     "model": "7WD4S106BCS1",
     "series": "SILVER",
     "price": 939000,
     "img": "img/502.webp",
-    "url": "https://seventech.uz/market/product-page/dispenser-dlia-vody-s-zashhitoi-ot-detei-7wd4s106bcs1"
+    "slug": "dispenser-dlia-vody-s-zashhitoi-ot-detei-7wd4s106bcs1"
    }
   ]
  },
  {
   "slug": "videonabliudenie",
-  "title": "Video Kuzatuv",
+  "title": {
+   "uz": "Video Kuzatuv",
+   "ru": "Видеонаблюдение",
+   "en": "Video Surveillance"
+  },
   "count": 26,
-  "url": "https://seventech.uz/market?category=videonabliudenie",
   "items": [
    {
     "id": 892,
-    "title": "7ST-DP5432W(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DP5432W(UZB Tashkent)",
+     "ru": "7ST-DP5432W",
+     "en": "7ST-DP5432W(UZB Tashkent)"
+    },
     "model": "7ST-DP5432W(UZB Tashkent)",
     "series": null,
     "price": 4478136,
     "img": "img/892.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dp5432w-7st-dp5432wuzb-tashkent"
+    "slug": "7st-dp5432w-7st-dp5432wuzb-tashkent"
    },
    {
     "id": 893,
-    "title": "7ST-DP4C425MW(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DP4C425MW(UZB Tashkent)",
+     "ru": "7ST-DP4C425MW",
+     "en": "7ST-DP4C425MW(UZB Tashkent)"
+    },
     "model": "7ST-DP4C425MW(UZB Tashkent)",
     "series": null,
     "price": 4133664,
     "img": "img/893.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dp4c425mw-7st-dp4c425mwuzb-tashkent"
+    "slug": "7st-dp4c425mw-7st-dp4c425mwuzb-tashkent"
    },
    {
     "id": 891,
-    "title": "7ST-DP4425W(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DP4425W(UZB Tashkent)",
+     "ru": "7ST-DP4425W",
+     "en": "7ST-DP4425W(UZB Tashkent)"
+    },
     "model": "7ST-DP4425W(UZB Tashkent)",
     "series": null,
     "price": 3375776,
     "img": "img/891.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dp4425w-7st-dp4425wuzb-tashkent"
+    "slug": "7st-dp4425w-7st-dp4425wuzb-tashkent"
    },
    {
     "id": 890,
-    "title": "7ST-DP4215W(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DP4215W(UZB Tashkent)",
+     "ru": "7ST-DP4215W",
+     "en": "7ST-DP4215W(UZB Tashkent)"
+    },
     "model": "7ST-DP4215W(UZB Tashkent)",
     "series": null,
     "price": 2411304,
     "img": "img/890.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dp4215w-7st-dp4215wuzb-tashkent"
+    "slug": "7st-dp4215w-7st-dp4215wuzb-tashkent"
    },
    {
     "id": 889,
-    "title": "7ST-MP7A404W(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-MP7A404W(UZB Tashkent)",
+     "ru": "7ST-MP7A404W",
+     "en": "7ST-MP7A404W(UZB Tashkent)"
+    },
     "model": "7ST-MP7A404W(UZB Tashkent)",
     "series": null,
     "price": 1653416,
     "img": "img/889.webp",
-    "url": "https://seventech.uz/market/product-page/7st-mp7a404w-7st-mp7a404wuzb-tashkent"
+    "slug": "7st-mp7a404w-7st-mp7a404wuzb-tashkent"
    },
    {
     "id": 885,
-    "title": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)",
+     "ru": "7ST-DI8087G2H-LIU 2.8MM EF",
+     "en": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)"
+    },
     "model": "7ST-DI8087G2H-LIU(2.8mm)(UZB Tashkent)",
     "series": null,
     "price": 1405416,
     "img": "img/885.webp",
-    "url": "https://seventech.uz/market/product-page/7st-di8087g2h-liu-28mm-ef-7st-di8087g2h-liu28mmuzb-tashkent"
+    "slug": "7st-di8087g2h-liu-28mm-ef-7st-di8087g2h-liu28mmuzb-tashkent"
    },
    {
     "id": 884,
-    "title": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)",
+     "ru": "7ST-DI8047G2H-LIU 2.8MM EF",
+     "en": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)"
+    },
     "model": "7ST-DI8047G2H-LIU(2.8mm)(UZB Tashkent)",
     "series": null,
     "price": 1033416,
     "img": "img/884.webp",
-    "url": "https://seventech.uz/market/product-page/7st-di8047g2h-liu-28mm-ef-7st-di8047g2h-liu28mmuzb-tashkent"
+    "slug": "7st-di8047g2h-liu-28mm-ef-7st-di8047g2h-liu28mmuzb-tashkent"
    },
    {
     "id": 882,
-    "title": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)",
+     "ru": "7ST-DI7643G2-IZ 2.8-12MM C",
+     "en": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)"
+    },
     "model": "7ST-DI7643G2-IZ(2.8-12mm)(UZB Tashkent)",
     "series": null,
     "price": 964472,
     "img": "img/882.webp",
-    "url": "https://seventech.uz/market/product-page/7st-di7643g2-iz-28-12mm-c-7st-di7643g2-iz28-12mmuzb-tashkent"
+    "slug": "7st-di7643g2-iz-28-12mm-c-7st-di7643g2-iz28-12mmuzb-tashkent"
    },
    {
     "id": 883,
-    "title": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)",
+     "ru": "7ST-DI8047G2-L 2.8MM C",
+     "en": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)"
+    },
     "model": "7ST-DI8047G2-L(2.8mm)(UZB Tashkent)",
     "series": null,
     "price": 909664,
     "img": "img/883.webp",
-    "url": "https://seventech.uz/market/product-page/7st-di8047g2-l-28mm-c-7st-di8047g2-l28mmuzb-tashkent"
+    "slug": "7st-di8047g2-l-28mm-c-7st-di8047g2-l28mmuzb-tashkent"
    },
    {
     "id": 881,
-    "title": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)",
+    "title": {
+     "uz": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)",
+     "ru": "7ST-DI7383G2-LIU",
+     "en": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)"
+    },
     "model": "7ST-DI7383G2-LIU(2.8mm)(UZB Tashkent)",
     "series": null,
     "price": 799180,
     "img": "img/881.webp",
-    "url": "https://seventech.uz/market/product-page/7st-di7383g2-liu-7st-di7383g2-liu28mmuzb-tashkent"
+    "slug": "7st-di7383g2-liu-7st-di7383g2-liu28mmuzb-tashkent"
    }
   ]
  },
  {
   "slug": "domofoniia",
-  "title": "Domofonlar",
+  "title": {
+   "uz": "Domofonlar",
+   "ru": "Домофония",
+   "en": "Intercom Systems"
+  },
   "count": 7,
-  "url": "https://seventech.uz/market?category=domofoniia",
   "items": [
    {
     "id": 894,
-    "title": "7ST-SB8113-IME1",
+    "title": {
+     "uz": "7ST-SB8113-IME1",
+     "ru": "7ST-SB8113-IME1",
+     "en": "7ST-SB8113-IME1"
+    },
     "model": "7ST-SB8113-IME1",
     "series": null,
     "price": 3017292,
     "img": "img/894.webp",
-    "url": "https://seventech.uz/market/product-page/7st-sb8113-ime1-7st-sb8113-ime1"
+    "slug": "7st-sb8113-ime1-7st-sb8113-ime1"
    },
    {
     "id": 896,
-    "title": "7ST-S1T771MF",
+    "title": {
+     "uz": "7ST-S1T771MF",
+     "ru": "7ST-S1T771MF",
+     "en": "7ST-S1T771MF"
+    },
     "model": "7ST-S1T771MF",
     "series": null,
     "price": 2755776,
     "img": "img/896.webp",
-    "url": "https://seventech.uz/market/product-page/7st-s1t771mf-7st-s1t771mf"
+    "slug": "7st-s1t771mf-7st-s1t771mf"
    },
    {
     "id": 899,
-    "title": "7ST-DM8A10-W",
+    "title": {
+     "uz": "7ST-DM8A10-W",
+     "ru": "7ST-DM8A10-W",
+     "en": "7ST-DM8A10-W"
+    },
     "model": "7ST-DM8A10-W",
     "series": null,
     "price": 1659864,
     "img": "img/899.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dm8a10-w-7st-dm8a10-w"
+    "slug": "7st-dm8a10-w-7st-dm8a10-w"
    },
    {
     "id": 900,
-    "title": "7ST-KIT603-P",
+    "title": {
+     "uz": "7ST-KIT603-P",
+     "ru": "7ST-KIT603-P",
+     "en": "7ST-KIT603-P"
+    },
     "model": "7ST-KIT603-P",
     "series": null,
     "price": 1377888,
     "img": "img/900.webp",
-    "url": "https://seventech.uz/market/product-page/7st-kit603-p-7st-kit603-p"
+    "slug": "7st-kit603-p-7st-kit603-p"
    },
    {
     "id": 898,
-    "title": "7ST-DM7750",
+    "title": {
+     "uz": "7ST-DM7750",
+     "ru": "7ST-DM7750",
+     "en": "7ST-DM7750"
+    },
     "model": "7ST-DM7750",
     "series": null,
     "price": 1176636,
     "img": "img/898.webp",
-    "url": "https://seventech.uz/market/product-page/7st-dm7750-7st-dm7750"
+    "slug": "7st-dm7750-7st-dm7750"
    },
    {
     "id": 897,
-    "title": "7ST-S1T543MFWX",
+    "title": {
+     "uz": "7ST-S1T543MFWX",
+     "ru": "7ST-S1T543MFWX",
+     "en": "7ST-S1T543MFWX"
+    },
     "model": "7ST-S1T543MFWX",
     "series": null,
     "price": 1054248,
     "img": "img/897.webp",
-    "url": "https://seventech.uz/market/product-page/7st-s1t543mfwx-7st-s1t543mfwx"
+    "slug": "7st-s1t543mfwx-7st-s1t543mfwx"
    },
    {
     "id": 895,
-    "title": "7ST-SV6113-WPE1",
+    "title": {
+     "uz": "7ST-SV6113-WPE1",
+     "ru": "7ST-SV6113-WPE1",
+     "en": "7ST-SV6113-WPE1"
+    },
     "model": "7ST-SV6113-WPE1",
     "series": null,
     "price": 806000,
     "img": "img/895.webp",
-    "url": "https://seventech.uz/market/product-page/7st-sv6113-wpe1-7st-sv6113-wpe1"
+    "slug": "7st-sv6113-wpe1-7st-sv6113-wpe1"
    }
   ]
  }

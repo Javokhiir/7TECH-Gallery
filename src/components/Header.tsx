@@ -8,6 +8,11 @@ import {
   useState,
   type KeyboardEvent as ReactKeyboardEvent,
 } from "react";
+import { useLocale, useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
+import type { Locale } from "@/i18n/routing";
+import { STORE_URL } from "@/lib/site";
+import LanguageSwitcher from "./LanguageSwitcher";
 import Logo from "./Logo";
 import SearchResults, { optionId, searchProducts } from "./SearchResults";
 import styles from "./SearchResults.module.css";
@@ -24,6 +29,9 @@ export default function Header({
   collections: Collection[];
   onPick: (productId: number) => void;
 }) {
+  const t = useTranslations("header");
+  const tBrand = useTranslations("brand");
+  const store = STORE_URL[useLocale() as Locale];
   const input = useRef<HTMLInputElement>(null);
   const listId = useId();
   const [focused, setFocused] = useState(false);
@@ -79,18 +87,18 @@ export default function Header({
 
   return (
     <header className="top">
-      <a className="logo" href="https://seventech.uz/" aria-label="7TECH">
+      <a className="logo" href={store} aria-label="7TECH">
         <Logo />
       </a>
-      <span className="slogan">Kelajak. Bugun.</span>
+      <span className="slogan">{tBrand("slogan")}</span>
       <nav className="nav">
-        <a href="/" className="active">
-          Galereya
-        </a>
-        <a href="https://seventech.uz/market">Do‘kon</a>
-        <a href="https://seventech.uz/branches">Filiallar</a>
-        <a href="https://seventech.uz/delivery-terms">Yetkazish</a>
-        <a href="https://seventech.uz/">Yordam</a>
+        <Link href="/" className="active">
+          {t("gallery")}
+        </Link>
+        <a href={`${store}/market`}>{t("shop")}</a>
+        <a href={`${store}/branches`}>{t("branches")}</a>
+        <a href={`${store}/delivery-terms`}>{t("delivery")}</a>
+        <a href={store}>{t("help")}</a>
       </nav>
       <div className="tools">
         <div className={styles.anchor}>
@@ -106,7 +114,7 @@ export default function Header({
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
               onKeyDown={onInputKey}
-              placeholder="Qidirish"
+              placeholder={t("search")}
               role="combobox"
               aria-autocomplete="list"
               aria-expanded={open}
@@ -130,8 +138,8 @@ export default function Header({
             />
           )}
         </div>
-        <span className="pill">UZS</span>
-        <a className="ico" href="https://seventech.uz/" aria-label="Profil">
+        <LanguageSwitcher />
+        <a className="ico" href={store} aria-label={t("profile")}>
           <svg viewBox="0 0 24 24">
             <circle cx="12" cy="8" r="4" />
             <path d="M4 21c1-4 4-6 8-6s7 2 8 6" />
@@ -139,8 +147,8 @@ export default function Header({
         </a>
         <a
           className="ico cart"
-          href="https://seventech.uz/market"
-          aria-label="Savat"
+          href={`${store}/market`}
+          aria-label={t("cart")}
         >
           <svg viewBox="0 0 24 24">
             <path d="M3 4h2l2 11h11l2-8H7" />

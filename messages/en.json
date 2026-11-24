@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "title": "7TECH 3D Gallery | Walk Through Our Products in 3D",
+    "siteName": "7TECH Gallery",
+    "description": "7TECH products in a 3D gallery: smartphones, TVs, monitors, refrigerators, air conditioners and other home appliances in a virtual corridor. Future. Today.",
+    "ogAlt": "7TECH 3D Gallery: a dark corridor with products on the walls",
+    "collections": "7TECH collections"
+  },
+  "brand": {
+    "slogan": "Future. Today."
+  },
+  "header": {
+    "gallery": "Gallery",
+    "shop": "Shop",
+    "branches": "Stores",
+    "delivery": "Delivery",
+    "help": "Help",
+    "search": "Search",
+    "searchResults": "Search results",
+    "searchEmpty": "Nothing found for “{query}”.",
+    "profile": "Profile",
+    "cart": "Cart",
+    "language": "Language"
+  },
+  "gallery": {
+    "viewGallery": "Gallery",
+    "viewList": "List",
+    "passing": "You are passing",
+    "openCollection": "Open collection →",
+    "tipLook": "Take a closer look",
+    "tipBack": "Step back",
+    "count": "{count, plural, one {# product} other {# products}}",
+    "collections": "Collections"
+  },
+  "card": {
+    "shop": "View in store →",
+    "close": "Close"
+  },
+  "loading": {
+    "label": "Loading"
+  },
+  "price": {
+    "currency": "UZS"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "back": "Back to the gallery"
+  }
+}

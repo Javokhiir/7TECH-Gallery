@@ -128,6 +128,8 @@ export class Corridor {
     private collections: Collection[],
     private fonts: Fonts,
     private ev: CorridorEvents,
+    /** the brand slogan in the page language, painted on the walls */
+    private slogan: string,
   ) {
     this.renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
     this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
@@ -600,7 +602,7 @@ export class Corridor {
     }
   }
 
-  /** logo + "Kelajak. Bugun" drawn once in the brand face (white, tinted by the material) */
+  /** logo + the slogan drawn once in the brand face (white, tinted by the material) */
   private wallDecalTexture() {
     const H = 160;
     const logoH = 88;
@@ -608,7 +610,7 @@ export class Corridor {
     const x = cv.getContext("2d")!;
     const font = `700 76px ${this.fonts.brand}`;
     x.font = font;
-    const text = "KELAJAK. BUGUN.";
+    const text = this.slogan.toUpperCase();
     const tw = x.measureText(text).width;
     const logoW = (logoH * 168) / 36;
     const gap = 44;

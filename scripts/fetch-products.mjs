@@ -13,8 +13,10 @@ const ORDER = [
   "mikrovolnovye-peci", "aerogrili", "blendery", "dispenser-dlia-vody", "videonabliudenie", "domofoniia",
 ];
 
-// categories the API has not translated yet
-const CATEGORY_UZ = { "morozilnye-kamery": "Muzlatgich kameralari" };
+const LOCALES = ["uz", "ru", "en"];
+
+/** { uz, ru, en } from the API's per-language records, falling back to the base (Russian) text */
+const localized = (records, base) => Object.fromEntries(LOCALES.map((l) => [l, records?.[l]?.title || base]));
 
 const exists = (p) => access(p).then(() => true, () => false);
 
@@ -34,7 +36,7 @@ const products = (await fetchAll()).filter((p) => p.is_active && p.media?.images
 const bySlug = new Map();
 for (const p of products) {
   const c = p.category;
-  if (!bySlug.has(c.slug)) bySlug.set(c.slug, { title: c.locale?.uz?.title ?? c.title, items: [] });
+  if (!bySlug.has(c.slug)) bySlug.set(c.slug, { title: localized(c.locale, c.title), items: [] });
   bySlug.get(c.slug).items.push(p);
 }
 
@@ -45,8 +47,8 @@ for (const slug of ORDER.filter((s) => bySlug.has(s))) {
   const seen = new Set();
   const items = [];
   for (const p of [...c.items].sort((a, b) => (b.price ?? 0) - (a.price ?? 0))) {
-    const title = p.locales?.uz?.title ?? p.title;
-    const stem = title.replace(/,\s*[^,]+$/, "").trim().toLowerCase(); // drop colour variants
+    const title = localized(p.locales, p.title);
+    const stem = title.uz.replace(/,\s*[^,]+$/, "").trim().toLowerCase(); // drop colour variants
     if (seen.has(stem)) continue;
     seen.add(stem);
     const img = `img/${p.id}.webp`;
@@ -58,11 +60,11 @@ for (const slug of ORDER.filter((s) => bySlug.has(s))) {
       series: p.series ? String(p.series).toUpperCase() : null,
       price: p.price,
       img,
-      url: `https://seventech.uz/market/product-page/${p.slug}`,
+      slug: p.slug,
     });
     if (items.length === PER_COLLECTION) break;
   }
-  collections.push({ slug, title: c.title, count: c.items.length, url: `https://seventech.uz/market?category=${slug}`, items });
+  collections.push({ slug, title: c.title, count: c.items.length, items });
 }
 
 await mkdir(join(ROOT, "public", "img"), { recursive: true });

@@ -1,18 +1,14 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { useTranslations } from "next-intl";
 import { Corridor, type Tip } from "./corridor";
-import { formatPrice, type Collection, type Product } from "./types";
+import type { Collection, Product } from "./types";
+import { usePrice } from "@/i18n/usePrice";
 import LoadingVeil from "./LoadingVeil";
 import ProductCard from "./ProductCard";
 import Header from "./Header";
 import { loadLogo } from "@/lib/logo";
-
-const TIPS: Record<Exclude<Tip, null>, string> = {
-  look: "Yaqindan ko‘rish",
-  print: "Ortga qaytish",
-  collection: "Kolleksiyani ochish",
-};
 
 export default function Gallery({ collections }: { collections: Collection[] }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -28,22 +24,28 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
   const [landed, setLanded] = useState(false);
   const [view, setView] = useState<"gallery" | "list">("gallery");
   const [query, setQuery] = useState("");
+  const t = useTranslations("gallery");
+  const tHeader = useTranslations("header");
+  const slogan = useTranslations("brand")("slogan");
+  const price = usePrice();
+  const tips: Record<Exclude<Tip, null>, string> = { look: t("tipLook"), print: t("tipBack"), collection: t("openCollection") };
 
   useEffect(() => {
     let disposed = false;
     const css = getComputedStyle(document.documentElement);
     const fonts = {
-      body: css.getPropertyValue("--f-serif").trim() || "serif",
-      display: css.getPropertyValue("--f-display").trim() || "sans-serif",
+      body: css.getPropertyValue("--font-body").trim() || "serif",
+      display: css.getPropertyValue("--font-display").trim() || "sans-serif",
       brand: css.getPropertyValue("--f-brand").trim() || "sans-serif",
     };
     Promise.all([
       loadLogo("#1a1a1a"),
       loadLogo("#ffffff"),
-      document.fonts.load(`700 64px ${fonts.brand}`, "KELAJAK. BUGUN."),
-      document.fonts.load(`600 54px ${fonts.body}`),
-      document.fonts.load(`italic 400 52px ${fonts.body}`),
-      document.fonts.load(`400 64px ${fonts.display}`),
+      // sample text with Cyrillic too, so the Russian fallback faces are loaded before drawing
+      document.fonts.load(`700 64px ${fonts.brand}`, slogan.toUpperCase()),
+      document.fonts.load(`600 54px ${fonts.body}`, "Aa Яя"),
+      document.fonts.load(`italic 400 52px ${fonts.body}`, "Aa Яя"),
+      document.fonts.load(`400 64px ${fonts.display}`, "AA ЯЯ"),
     ])
       .catch(() => {})
       .then(() => {
@@ -55,14 +57,14 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
           onTip: setTip,
           onShown: () => setShown(true),
           onLanding: () => setLanded(true),
-        });
+        }, slogan);
       });
     return () => {
       disposed = true;
       corridor.current?.dispose();
       corridor.current = null;
     };
-  }, [collections]);
+  }, [collections, slogan]);
 
   useEffect(() => {
     document.documentElement.dataset.view = view;
@@ -93,10 +95,10 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
 
       <div className="view-toggle" role="tablist">
         <button className={view === "gallery" ? "on" : ""} onClick={() => setView("gallery")}>
-          GALEREYA
+          {t("viewGallery").toUpperCase()}
         </button>
         <button className={view === "list" ? "on" : ""} onClick={() => setView("list")}>
-          RO‘YXAT
+          {t("viewList").toUpperCase()}
         </button>
       </div>
 
@@ -115,21 +117,21 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
 
         {landed && (
           <div className={`room-caption${focused ? " lit" : ""}`} key={current.slug}>
-            <p className="kicker">Siz yonidan o‘tyapsiz</p>
+            <p className="kicker">{t("passing")}</p>
             <h2 className="room-title">{current.title}</h2>
             <a className="more" href={current.url}>
-              Kolleksiyaga kirish →
+              {t("openCollection")}
             </a>
           </div>
         )}
 
         <span className={`cursor-tip${tip && landed ? " on" : ""}`} ref={tipRef} aria-hidden="true">
-          <span className="cursor-tip-pill">{tip ? TIPS[tip] : ""}</span>
+          <span className="cursor-tip-pill">{tip ? tips[tip] : ""}</span>
         </span>
 
         <ProductCard product={view === "gallery" ? focusItem.p : null} collection={focusItem.col} onClose={closeCard} />
 
-        <nav aria-label="Kolleksiyalar" className="scene-index">
+        <nav aria-label={t("collections")} className="scene-index">
           <ul>
             {collections.map((c) => (
               <li key={c.slug}>
@@ -144,12 +146,12 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
 
       {view === "list" && (
         <section className="list">
-          {listCols.length === 0 && <p className="empty">“{query}” bo‘yicha hech narsa topilmadi.</p>}
+          {listCols.length === 0 && <p className="empty">{tHeader("searchEmpty", { query })}</p>}
           {listCols.map((c) => (
             <div key={c.slug}>
               <h3>
                 {c.title}
-                <small>{c.count} TA MAHSULOT</small>
+                <small>{t("count", { count: c.count }).toUpperCase()}</small>
               </h3>
               <div className="grid">
                 {c.items.map((p) => (
@@ -157,7 +159,7 @@ export default function Gallery({ collections }: { collections: Collection[] }) 
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={"/" + p.img} alt={p.title} loading="lazy" />
                     <div className="t">{p.title}</div>
-                    <div className="p">{formatPrice(p.price)}</div>
+                    <div className="p">{price(p.price)}</div>
                   </a>
                 ))}
               </div>

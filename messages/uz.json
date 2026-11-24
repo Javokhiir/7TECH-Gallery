@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "title": "7TECH 3D Galereya | Mahsulotlarni 3D koridorda ko‘ring",
+    "siteName": "7TECH Galereya",
+    "description": "7TECH mahsulotlari 3D galereyada: smartfonlar, televizorlar, monitorlar, sovutgichlar, konditsionerlar va boshqa maishiy texnikani virtual koridorda aylanib ko‘ring. Kelajak. Bugun.",
+    "ogAlt": "7TECH 3D Galereya: mahsulotlar osilgan qorong‘i koridor",
+    "collections": "7TECH kolleksiyalari"
+  },
+  "brand": {
+    "slogan": "Kelajak. Bugun."
+  },
+  "header": {
+    "gallery": "Galereya",
+    "shop": "Do‘kon",
+    "branches": "Filiallar",
+    "delivery": "Yetkazish",
+    "help": "Yordam",
+    "search": "Qidirish",
+    "searchResults": "Qidiruv natijalari",
+    "searchEmpty": "“{query}” bo‘yicha hech narsa topilmadi.",
+    "profile": "Profil",
+    "cart": "Savat",
+    "language": "Til"
+  },
+  "gallery": {
+    "viewGallery": "Galereya",
+    "viewList": "Ro‘yxat",
+    "passing": "Siz yonidan o‘tyapsiz",
+    "openCollection": "Kolleksiyaga kirish →",
+    "tipLook": "Yaqindan ko‘rish",
+    "tipBack": "Ortga qaytish",
+    "count": "{count} ta mahsulot",
+    "collections": "Kolleksiyalar"
+  },
+  "card": {
+    "shop": "Do‘konda ko‘rish →",
+    "close": "Yopish"
+  },
+  "loading": {
+    "label": "Yuklanmoqda"
+  },
+  "price": {
+    "currency": "so‘m"
+  },
+  "notFound": {
+    "title": "Sahifa topilmadi",
+    "back": "Galereyaga qaytish"
+  }
+}
