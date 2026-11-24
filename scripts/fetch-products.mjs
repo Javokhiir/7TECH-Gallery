@@ -14,6 +14,8 @@ const ORDER = [
 ];
 
 const LOCALES = ["uz", "ru", "en"];
+/** collections shown as one piece per colour (e.g. the same phone in black and in white) */
+const BY_COLOUR = new Set(["smartfony"]);
 
 /** { uz, ru, en } from the API's per-language records, falling back to the base (Russian) text */
 const localized = (records, base) => Object.fromEntries(LOCALES.map((l) => [l, records?.[l]?.title || base]));
@@ -48,7 +50,9 @@ for (const slug of ORDER.filter((s) => bySlug.has(s))) {
   const items = [];
   for (const p of [...c.items].sort((a, b) => (b.price ?? 0) - (a.price ?? 0))) {
     const title = localized(p.locales, p.title);
-    const stem = title.uz.replace(/,\s*[^,]+$/, "").trim().toLowerCase(); // drop colour variants
+    // one piece per model (colour variants dropped); for these collections, one per colour instead
+    const colour = title.uz.match(/,\s*([^,]+)$/)?.[1].trim().toLowerCase() ?? "";
+    const stem = BY_COLOUR.has(slug) ? colour : title.uz.replace(/,\s*[^,]+$/, "").trim().toLowerCase();
     if (seen.has(stem)) continue;
     seen.add(stem);
     const img = `img/${p.id}.webp`;

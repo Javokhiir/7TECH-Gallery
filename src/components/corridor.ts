@@ -169,7 +169,8 @@ export class Corridor {
   private buildPlaces() {
     this.collections.forEach((c, ci) => {
       const prints = c.items.slice(0, 10);
-      const nOuter = Math.ceil(prints.length / 2);
+      // small collections stay together on the outer wall; larger ones split across both walls
+      const nOuter = prints.length <= 3 ? prints.length : Math.ceil(prints.length / 2);
       const outer = prints.slice(0, nOuter);
       const inner = prints.slice(nOuter);
       for (let k = 0; k < SECTION_GAP; k++) this.places.push({ col: ci, outer: null, inner: null, first: false });
